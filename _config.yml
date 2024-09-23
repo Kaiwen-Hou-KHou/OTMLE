@@ -1,8 +1,10 @@
 title: OTMLE<br>Reading Group
 description: Every Wednesday at 2.15pm-3.30pm PT
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-remote-theme
+github:
+  is_project_page: false
