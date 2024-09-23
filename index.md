@@ -4,125 +4,56 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-The OTMLE (Optimal Transport and Targeted Maximum Likelihood Estimation) reading group explores the intersection of optimal transport theory and TMLE, offering a fresh perspective on how TMLE fluctuations of probability measures can be understood. The group covers key topics, including history of optimal transport, Wasserstein metrics, geodesics, gradient flows, statistical estimation, and information geometry. Each session focuses on one of these themes, providing participants with a comprehensive foundation to bridge optimal transport with statistical estimation techniques in TMLE.
-
-[Link to another page](./another-page.html).
-
-# Fall 2024
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [September 25th, 2024]
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-## [October 2nd, 2024]
+The OTMLE (**O**ptimal **T**ransport and Targeted **M**aximum **L**ikelihood **E**stimation) reading group explores the intersection of optimal transport theory and TMLE, offering a fresh perspective on how TMLE fluctuations of probability measures can be understood. The group covers key topics, including _history of optimal transport_, _Wasserstein metrics_, _geodesics_, _gradient flows_, _statistical estimation_, and _information geometry_. Each session focuses on one of these themes, providing participants with a comprehensive foundation to bridge optimal transport with statistical estimation techniques in TMLE.
 
 
-## [October 9th, 2024]
+# References
+
+- **Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.**
+- **Peyré, G., & Cuturi, M. (2019). Computational optimal transport: With applications to data science. _Foundations and Trends® in Machine Learning, 11_(5-6), 355-607.**
+- **Santambrogio, F. (2015). Optimal transport for applied mathematicians. _Birkäuser, NY_, 55(58-63), 94.**
+- **Villani, C. (2009). _Optimal transport: old and new_ (Vol. 338, p. 23). Berlin: springer.**
+- **Villani, C. (2021). _Topics in optimal transportation_ (Vol. 58). American Mathematical Soc..**
 
 
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
+## [September 25th, 2024] Overview
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Room</dt>
+<dd>BWW 5310</dd>
+<dt>Presenter</dt>
+<dd>Kaiwen Hou</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## [October 2nd, 2024] Introduction to Optimal Transport Theory
 
-```
-The final element.
-```
+<dl>
+<dt>Room</dt>
+<dd>BWW 5310</dd>
+<dt>Presenter</dt>
+<dd>Kaiwen Hou</dd>
+</dl>
+
+> Please read Villani (2021) Introduction and Ch 1.1-1.2.
+
+
+## [October 9th, 2024] Optimal Transport Metrics
+
+<dl>
+<dt>Room</dt>
+<dd>BWW 5310</dd>
+<dt>Presenter</dt>
+<dd> </dd>
+</dl>
+
+
+## [October 16th, 2024] Statistical Aspects of Wasserstein Distances
+
+<dl>
+<dt>Room</dt>
+<dd>BWW 5310</dd>
+<dt>Presenter</dt>
+<dd> </dd>
+</dl>
+
+
