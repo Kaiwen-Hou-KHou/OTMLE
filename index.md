@@ -27,11 +27,9 @@ Our **OTMLE** (**O**ptimal **T**ransport and Targeted **M**aximum **L**ikelihood
 <dd>Kaiwen Hou</dd>
 <dt>Agenda</dt>
 </dl>
-> Purpose of the reading group and its role in advancing targeted learning
-> 
-> Logistics: meeting times, room assignments, and reading materials for the semester
->
-> Introduction to optimal transport: historical overview and general concepts
+*   Purpose of the reading group and its role in advancing targeted learning
+*   Logistics: meeting times, room assignments, and reading materials for the semester
+*   Introduction to optimal transport: historical overview and general concepts
 
 ## [Technical Introduction]
 
@@ -44,13 +42,11 @@ Our **OTMLE** (**O**ptimal **T**ransport and Targeted **M**aximum **L**ikelihood
 <dd>Kaiwen Hou</dd>
 <dt>Agenda</dt>
 </dl>
-> **Readings**: Villani (2021): Sections 0.1-0.2, 1.1.1-1.1.5, 1.2
-> 
-> Monge's formulation and Kantorovich's relaxation
-> 
-> Proof of Duality
+*   Monge's formulation and Kantorovich's relaxation
+*   Proof of Duality
+*   Kantorovich-Rubinstein theorem
 >
-> Kantorovich-Rubinstein theorem
+> **Readings**: Villani (2021): Sections 0.1-0.2, 1.1.1-1.1.5, 1.2
 
 ## [Optimal Transport Metrics]
 
