@@ -1,7 +1,7 @@
-title: OTMLE <br>Reading Group
+title: CTML OTMLE <br>Reading Group
 description: Every Wednesday at 2.15pm-3.30pm PT
 show_downloads: false
-google_analytics:
+google_analytics: 
 theme: jekyll-theme-architect
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
