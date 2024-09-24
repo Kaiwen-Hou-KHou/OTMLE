@@ -33,7 +33,7 @@ Our **OTMLE** (**O**ptimal **T**ransport and Targeted **M**aximum **L**ikelihood
 ## [Technical Introduction]
 
 >
-> **Readings**: Villani (2021): Sections 0.1-0.2, 1.1.1-1.1.5, 1.2
+> **Readings**: Villani (2021) Sections 0.1-0.2, 1.1.1-1.1.5, 1.2
 
 <dl>
 <dt>Date</dt>
@@ -62,13 +62,16 @@ Our **OTMLE** (**O**ptimal **T**ransport and Targeted **M**aximum **L**ikelihood
 
 ## [Statistical Aspects of Wasserstein Distances]
 
+>
+> **Readings**: Panaretos & Zemel (2019)
+
 <dl>
 <dt>Date</dt>
 <dd>October 16th, 2024</dd>
 <dt>Room</dt>
 <dd>BWW 5310</dd>
 <dt>Presenter</dt>
-<dd> </dd>
+<dd>Wenxin Zhang</dd>
 </dl>
 
 
