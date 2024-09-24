@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The OTMLE (**O**ptimal **T**ransport and Targeted **M**aximum **L**ikelihood **E**stimation) reading group explores the intersection of optimal transport theory and TMLE, offering a fresh perspective on how TMLE fluctuations of probability measures can be understood. The group covers key topics, including _history of optimal transport_, _Wasserstein metrics_, _geodesics_, _gradient flows_, _statistical estimation_, and _information geometry_. Each session focuses on one of these themes, providing participants with a comprehensive foundation to bridge optimal transport with statistical estimation techniques in TMLE.
+Our **OTMLE** (**O**ptimal **T**ransport and Targeted **M**aximum **L**ikelihood **E**stimation) reading group explores the intersection of optimal transport theory and TMLE, offering a fresh perspective on how TMLE fluctuations of probability measures can be understood. The group covers key topics, including _history of optimal transport_, _Wasserstein metrics_, _geodesics_, _gradient flows_, _statistical estimation_, and _information geometry_. Each session focuses on one of these themes, providing participants with a comprehensive foundation to bridge optimal transport with statistical estimation techniques in TMLE.
 
 ![Optimal Transport](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/OTDD_Shovel-Figure.png)
 
@@ -16,30 +16,41 @@ The OTMLE (**O**ptimal **T**ransport and Targeted **M**aximum **L**ikelihood **E
 - **Villani, C. (2021). _Topics in optimal transportation_ (Vol. 58). American Mathematical Soc..**
 
 
-## [September 25th, 2024] Overview
+## [Overview]
 
 <dl>
+<dt>Date</dt>
+<dd>September 25th, 2024</dd>
+<dt>Room</dt>
+<dd>BWW 5310</dd>
+<dt>Presenter</dt>
+<dd>Kaiwen Hou</dd>
+<dt>Agenda</dt>
+</dl>
+> Purpose of the reading group and its role in advancing targeted learning
+> Logistics: meeting times, room assignments, and reading materials for the semester
+> Introduction to optimal transport: historical overview and general concepts
+
+## [Technical Introduction]
+
+<dl>
+<dt>Date</dt>
+<dd>October 2nd, 2024</dd>
 <dt>Room</dt>
 <dd>BWW 5310</dd>
 <dt>Presenter</dt>
 <dd>Kaiwen Hou</dd>
 </dl>
+> **Readings**: Villani (2021): Sections 0.1-0.2, 1.1.1-1.1.5, 1.2
+> Monge's formulation and Kantorovich's relaxation
+> Proof of Duality
+> Kantorovich-Rubinstein theorem
 
-## [October 2nd, 2024] Introduction to Optimal Transport Theory
-
-<dl>
-<dt>Room</dt>
-<dd>BWW 5310</dd>
-<dt>Presenter</dt>
-<dd>Kaiwen Hou</dd>
-</dl>
-
-> Please read Villani (2021) Introduction and Ch 1.1-1.2.
-
-
-## [October 9th, 2024] Optimal Transport Metrics
+## [Optimal Transport Metrics]
 
 <dl>
+<dt>Date</dt>
+<dd>October 9th, 2024</dd>
 <dt>Room</dt>
 <dd>BWW 5310</dd>
 <dt>Presenter</dt>
@@ -47,9 +58,11 @@ The OTMLE (**O**ptimal **T**ransport and Targeted **M**aximum **L**ikelihood **E
 </dl>
 
 
-## [October 16th, 2024] Statistical Aspects of Wasserstein Distances
+## [Statistical Aspects of Wasserstein Distances]
 
 <dl>
+<dt>Date</dt>
+<dd>October 16th, 2024</dd>
 <dt>Room</dt>
 <dd>BWW 5310</dd>
 <dt>Presenter</dt>
