@@ -23,53 +23,39 @@ Our weekly reading materials will be drawn from the following list, though it is
 
 
 ## [Overview]
-
-<dl>
-<dt>Date</dt>
-<dd>September 25th, 2024</dd>
-<dt>Presenter</dt>
-<dd>Kaiwen Hou</dd>
-</dl>
+> **Date**: September 25th, 2024
+>
+> **Presenter**: Kaiwen Hou
+>
+> **Reading**: Villani (2021) Sections 0.1-0.2, 1.1.1-1.1.5, 1.2
 *   Purpose of the reading group and its role in advancing targeted learning
 *   Logistics: meeting times, room assignments, and reading materials for the semester
 *   Introduction to optimal transport: historical overview and general concepts
 
 ## [Technical Introduction]
-
+> **Date**: October 2nd, 2024
 >
-> **Readings**: Villani (2021) Sections 0.1-0.2, 1.1.1-1.1.5, 1.2
-
-<dl>
-<dt>Date</dt>
-<dd>October 2nd, 2024</dd>
-<dt>Presenter</dt>
-<dd>Kaiwen Hou</dd>
-</dl>
+> **Presenter**: Kaiwen Hou
+>
+> **Reading**: Villani (2021) Sections 0.1-0.2, 1.1.1-1.1.5, 1.2
 *   Monge's formulation and Kantorovich's relaxation
 *   Proof of Duality
 *   Kantorovich-Rubinstein theorem
 
 
 ## [Optimal Transport Metrics]
-
-<dl>
-<dt>Date</dt>
-<dd>October 9th, 2024</dd>
-<dt>Presenter</dt>
-<dd> </dd>
-</dl>
+> **Date**: October 9th, 2024
+>
+> **Presenter**: 
+>
+> **Reading**: 
 
 
 ## [Statistical Aspects of Wasserstein Distances]
-
+> **Date**: October 16th, 2024
 >
-> **Readings**: Panaretos & Zemel (2019)
-
-<dl>
-<dt>Date</dt>
-<dd>October 16th, 2024</dd>
-<dt>Presenter</dt>
-<dd>Wenxin Zhang</dd>
-</dl>
+> **Presenter**: Wenxin Zhang
+>
+> **Reading**: Panaretos & Zemel (2019)
 
 
