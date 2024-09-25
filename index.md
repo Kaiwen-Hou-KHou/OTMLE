@@ -23,24 +23,32 @@ Our weekly reading materials will be drawn from the following list, though it is
 - **Villani, C. (2021). _Topics in optimal transportation_ (Vol. 58). American Mathematical Soc..**
 
 
-## [Overview]
+## [Introduction]
 > **Date**: September 25th, 2024
 >
 > **Presenter**: Kaiwen Hou
+>
+> **Optional Reading**: Villani (2021) Sections 0.1-0.3, 2.1-2.3.1
 *   Purpose of the reading group and its role in advancing targeted learning
 *   Logistics: meeting times, room assignments, and reading materials for the semester
-*   Introduction to optimal transport: historical overview and general concepts
+*   Basic concepts: source measure, target measure, transport map, and pushforward
+*   Monge's formulation, existence, and uniqueness
+*   Kantorovich's relaxation and transport plan
+*   TMLE is an optimal transport that minimizes efficiency loss and KL divergence
+*   Property of the optimal transport map: cyclical monotonicity
 
 
-## [Technical Introduction]
+## [Geometry of Optimal Transport]
 > **Date**: October 2nd, 2024
 >
 > **Presenter**: Kaiwen Hou
 >
-> **Reading**: Villani (2021) Sections 0.1-0.2, 1.1.1-1.1.5, 1.2
-*   Monge's formulation and Kantorovich's relaxation
-*   Proof of Duality
-*   Kantorovich-Rubinstein theorem
+> **Reading**: Villani (2021) Sections 2.2-2.3, 1.1.1-1.1.5
+>
+> **Optional Reading**: Villani (2021) Section 4.1
+*   Rockafellar's theorem on cyclical monotonicity
+*   Monge–Ampère equation
+*   Duality
 
 
 ## [Optimal Transport Metrics]
