@@ -15,6 +15,7 @@ To stay informed about our reading group sessions and the latest developments at
 
 Our weekly reading materials will be drawn from the following list, though it is not exhaustive. We have carefully hand-picked these resources to offer not only a comprehensive introduction to optimal transport theories but also to emphasize aspects that are potentially useful in relation to TMLE.
 
+- **Chernozhukov, V., Galichon, A., Hallin, M., & Henry, M. (2017). Monge–Kantorovich depth, quantiles, ranks and signs.**
 - **Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.**
 - **Peyré, G., & Cuturi, M. (2019). Computational optimal transport: With applications to data science. _Foundations and Trends® in Machine Learning, 11_(5-6), 355-607.**
 - **Santambrogio, F. (2015). Optimal transport for applied mathematicians. _Birkäuser, NY_, 55(58-63), 94.**
@@ -26,11 +27,10 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Date**: September 25th, 2024
 >
 > **Presenter**: Kaiwen Hou
->
-> **Reading**: Villani (2021) Sections 0.1-0.2, 1.1.1-1.1.5, 1.2
 *   Purpose of the reading group and its role in advancing targeted learning
 *   Logistics: meeting times, room assignments, and reading materials for the semester
 *   Introduction to optimal transport: historical overview and general concepts
+
 
 ## [Technical Introduction]
 > **Date**: October 2nd, 2024
@@ -59,3 +59,57 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: Panaretos & Zemel (2019)
 
 
+## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
+> **Date**: October 23rd, 2024
+>
+> **Presenter**: 
+>
+> **Reading**: Chernozhukov et al. (2017)
+
+
+## [Gradient Flows]
+> **Date**: October 30th, 2024
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Geodesics in Probability Spaces]
+> **Date**: November 6th, 2024
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Variational Formulation of Fokker-Planck Equation]
+> **Date**: November 13th, 2024
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Estimation under Wasserstein Loss]
+> **Date**: November 20th, 2024
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Information Geometry and Statistical Manifolds]
+> **Date**: November 27th, 2024
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Gradient Flows Revisited]
+> **Date**: December 4th, 2024
+>
+> **Presenter**: 
+>
+> **Reading**: 
