@@ -27,8 +27,6 @@ Our weekly reading materials will be drawn from the following list, though it is
 <dl>
 <dt>Date</dt>
 <dd>September 25th, 2024</dd>
-<dt>Room</dt>
-<dd>BWW 5310</dd>
 <dt>Presenter</dt>
 <dd>Kaiwen Hou</dd>
 </dl>
@@ -44,8 +42,6 @@ Our weekly reading materials will be drawn from the following list, though it is
 <dl>
 <dt>Date</dt>
 <dd>October 2nd, 2024</dd>
-<dt>Room</dt>
-<dd>BWW 5310</dd>
 <dt>Presenter</dt>
 <dd>Kaiwen Hou</dd>
 </dl>
@@ -59,8 +55,6 @@ Our weekly reading materials will be drawn from the following list, though it is
 <dl>
 <dt>Date</dt>
 <dd>October 9th, 2024</dd>
-<dt>Room</dt>
-<dd>BWW 5310</dd>
 <dt>Presenter</dt>
 <dd> </dd>
 </dl>
@@ -74,8 +68,6 @@ Our weekly reading materials will be drawn from the following list, though it is
 <dl>
 <dt>Date</dt>
 <dd>October 16th, 2024</dd>
-<dt>Room</dt>
-<dd>BWW 5310</dd>
 <dt>Presenter</dt>
 <dd>Wenxin Zhang</dd>
 </dl>
