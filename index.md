@@ -34,8 +34,8 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Basic concepts: source measure, target measure, transport map, and pushforward
 *   Monge's formulation, existence, and uniqueness
 *   Kantorovich's relaxation and transport plan
-*   TMLE is an optimal transport that minimizes efficiency loss and KL divergence
 *   Property of the optimal transport map: cyclical monotonicity
+*   Optimal transport map implied by TMLE
 
 
 ## [Geometry of Optimal Transport]
@@ -54,7 +54,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 ## [Optimal Transport Metrics]
 > **Date**: October 9th, 2024
 >
-> **Presenter**: 
+> **Presenter**: [Qiuran Lyu](https://lqrrrrr.github.io/)
 >
 > **Reading**: 
 
