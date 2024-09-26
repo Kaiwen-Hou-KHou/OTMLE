@@ -36,7 +36,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Kantorovich's relaxation and transport plan
 *   Property of the optimal transport map: cyclical monotonicity
 *   Optimal transport map implied by TMLE
-> **Leftover Questions**:
+> **Unresolved Questions**:
 *   Compactness of the coupling space
 *   Weierstrass theorem: existence in Kantorovich's formulation
 *   Existence of suboptimal transport plan in proving monotonicty
