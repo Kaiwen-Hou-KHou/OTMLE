@@ -62,9 +62,9 @@ Our weekly reading materials will be drawn from the following list, though it is
 ## [Statistical Aspects of Wasserstein Distances]
 > **Date**: October 16th, 2024
 >
-> **Presenter**: Wenxin Zhang
+> **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
 >
-> **Reading**: Panaretos & Zemel (2019)
+> **Reading**: [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500)
 
 
 ## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
@@ -72,7 +72,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: 
 >
-> **Reading**: Chernozhukov et al. (2017)
+> **Reading**: [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434)
 
 
 ## [Gradient Flows]
