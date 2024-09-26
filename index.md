@@ -36,6 +36,10 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Kantorovich's relaxation and transport plan
 *   Property of the optimal transport map: cyclical monotonicity
 *   Optimal transport map implied by TMLE
+> **Leftover Questions**:
+*   Compactness of the coupling space
+*   Weierstrass theorem: existence in Kantorovich's formulation
+*   Existence of suboptimal transport plan in proving monotonicty
 
 
 ## [Geometry of Optimal Transport]
@@ -46,6 +50,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: Villani (2021) Sections 2.2-2.3, 1.1.1-1.1.5
 >
 > **Optional Reading**: Villani (2021) Section 4.1
+*   
 *   Rockafellar's theorem on cyclical monotonicity
 *   Monge–Ampère equation
 *   Duality
