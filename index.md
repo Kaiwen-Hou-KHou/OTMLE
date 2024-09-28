@@ -64,6 +64,8 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Presenter**: [Qiuran Lyu](https://lqrrrrr.github.io/)
 >
 > **Reading**: 
+>
+> **Optional Reading**: Villani (2021) Sections 7.1, 7.4, Exercise 7.11
 
 
 ## [Statistical Aspects of Wasserstein Distances]
@@ -128,3 +130,8 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Presenter**: 
 >
 > **Reading**: 
+
+
+```
+Join us on [Zoom](https://berkeley.zoom.us/j/91970465738) if you're unable to attend in person.
+```
