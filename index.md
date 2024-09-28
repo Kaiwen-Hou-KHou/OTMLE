@@ -132,6 +132,4 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: 
 
 
-```
 Join us on [Zoom](https://berkeley.zoom.us/j/91970465738) if you're unable to attend in person.
-```
