@@ -34,7 +34,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Basic concepts: source measure, target measure, transport map, and pushforward
 *   Monge's formulation, existence, and uniqueness
 *   Kantorovich's relaxation and transport plan
-*   Property of the optimal transport map: cyclical monotonicity
+*   Property of the optimal transport map: monotonicity
 *   Optimal transport map implied by TMLE
 >
 > **Unresolved Questions**:
@@ -48,16 +48,17 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: Kaiwen Hou
 >
-> **Reading**: Villani (2021) Sections 2.2-2.3, 1.1.1-1.1.5
+> **Reading**: Villani (2021) Sections 2.2-2.3.2, 1.1.1-1.1.5; Santambrogio (2015) Box 1.1, Theorem 1.4
 >
-> **Optional Reading**: Villani (2021) Section 4.1
-*   
-*   Rockafellar's theorem on cyclical monotonicity
+> **Optional Reading**: Villani (2021) Sections 4.1, 1.1.6-1.2; Santambrogio (2015) Section 1.2
+*   Construction of optimal transport map
+*   Cyclical monotonicity and Rockafellar's theorem
 *   Monge–Ampère equation
-*   Duality
+*   Existence of optimal transport plan in Kantorovich's formulation
+*   Kantorovich duality
 
 
-## [Optimal Transport Metrics]
+## [Wasserstein Distances]
 > **Date**: October 9th, 2024
 >
 > **Presenter**: [Qiuran Lyu](https://lqrrrrr.github.io/)
