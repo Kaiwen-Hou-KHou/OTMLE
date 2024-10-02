@@ -50,7 +50,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Reading**: Villani (2021) Sections 2.2-2.3.2, 1.1.1-1.1.5; Santambrogio (2015) Box 1.1, Theorem 1.4
 >
-> **Optional Reading**: Villani (2021) Sections 4.1, 1.1.6-1.2; Santambrogio (2015) Section 1.2
+> **Optional Reading**: Villani (2021) Sections 4.1, 1.1.6-1.2, 2.1.1-2.1.3; Santambrogio (2015) Section 1.2
 *   Construction of optimal transport map
 *   Cyclical monotonicity and Rockafellar's theorem
 *   Monge–Ampère equation
