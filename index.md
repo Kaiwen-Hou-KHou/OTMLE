@@ -55,7 +55,6 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Cyclical monotonicity and Rockafellar's theorem
 *   Monge–Ampère equation
 *   Existence of optimal transport plan in Kantorovich's formulation
-*   Kantorovich duality
 
 
 ## [Wasserstein Distances]
@@ -66,6 +65,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: 
 >
 > **Optional Reading**: Villani (2021) Sections 7.1, 7.4, Exercise 7.11
+*   Kantorovich duality
 
 
 ## [Statistical Aspects of Wasserstein Distances]
