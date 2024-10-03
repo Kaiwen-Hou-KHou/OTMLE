@@ -132,4 +132,4 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: 
 
 
-Join us on [Zoom](https://berkeley.zoom.us/j/91970465738) if you can’t attend in person.
+Join us on [Zoom](https://berkeley.zoom.us/j/91970465738) if you can’t attend in person, and don't forget to subscribe to [this channel](https://kaltura.berkeley.edu/channel/CTML+Channel/358899692/subscribe) for access to the recordings.
