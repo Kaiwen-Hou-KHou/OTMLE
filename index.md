@@ -62,10 +62,16 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: [Qiuran Lyu](https://lqrrrrr.github.io/)
 >
-> **Reading**: 
+> **Reading**: Villani (2021) Sections 7.1, 7.4, Exercise 7.11
 >
-> **Optional Reading**: Villani (2021) Sections 7.1, 7.4, Exercise 7.11
-*   Kantorovich duality
+> **Optional Reading**: Villani (2021) Sections 7.2-7.3
+*   Why Wasserstein distance is a metric
+*   Gluing lemma to prove the triangle inequality
+*   Proof of gluing lemma
+*   Topological properties of Wasserstein distance
+*   Convexity properties satisfied by Wasserstein distance
+*   Behavior of Wasserstein distances under rescaled convolution
+*   Applications to central limit theorem
 
 
 ## [Statistical Aspects of Wasserstein Distances]
