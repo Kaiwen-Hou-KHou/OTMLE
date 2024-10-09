@@ -17,6 +17,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 
 - **Chernozhukov, V., Galichon, A., Hallin, M., & Henry, M. (2017). Monge–Kantorovich depth, quantiles, ranks and signs.**
 - **Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.**
+- **Panaretos, V. M., & Zemel, Y. (2020). _An invitation to statistics in Wasserstein space_ (p. 147). Springer Nature.**
 - **Peyré, G., & Cuturi, M. (2019). Computational optimal transport: With applications to data science. _Foundations and Trends® in Machine Learning, 11_(5-6), 355-607.**
 - **Santambrogio, F. (2015). Optimal transport for applied mathematicians. _Birkäuser, NY_, 55(58-63), 94.**
 - **Villani, C. (2009). _Optimal transport: old and new_ (Vol. 338, p. 23). Berlin: springer.**
@@ -64,7 +65,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Reading**: Villani (2021) Sections 7.1, 7.4, Exercise 7.11
 >
-> **Optional Reading**: Villani (2021) Sections 7.2-7.3
+> **Optional Reading**: Villani (2021) Sections 7.2-7.3, [Engquist, Froese and Yang (2016)](https://arxiv.org/pdf/1602.01540) Theorem 5
 *   Why Wasserstein distance is a metric
 *   Gluing lemma to prove the triangle inequality
 *   Proof of gluing lemma
@@ -80,6 +81,8 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
 >
 > **Reading**: [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500)
+>
+> **Optional Reading**: Panaretos & Zemel (2020)
 
 
 ## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
@@ -123,14 +126,6 @@ Our weekly reading materials will be drawn from the following list, though it is
 
 
 ## [Information Geometry and Statistical Manifolds]
-> **Date**: November 27th, 2024
->
-> **Presenter**: 
->
-> **Reading**: 
-
-
-## [Gradient Flows Revisited]
 > **Date**: December 4th, 2024
 >
 > **Presenter**: 
