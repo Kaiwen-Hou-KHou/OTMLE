@@ -66,13 +66,12 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: Villani (2021) Sections 7.1, 7.4, Exercise 7.11
 >
 > **Optional Reading**: Villani (2021) Sections 7.2-7.3; [Engquist, Froese, & Yang (2016)](https://arxiv.org/pdf/1602.01540) Theorem 5
-*   Why Wasserstein distance is a metric
+*   Wasserstein metric: nonnegativity and symmetry
 *   Gluing lemma to prove the triangle inequality
 *   Proof of gluing lemma
-*   Topological properties of Wasserstein distance
-*   Convexity properties satisfied by Wasserstein distance
-*   Behavior of Wasserstein distances under rescaled convolution
-*   Applications to central limit theorem
+*   Ordering and interpolation inequalities
+*   Topological properties: robustness to oscillations
+*   Convexity properties and behavior under rescaled convolution
 
 
 ## [Statistical Aspects of Wasserstein Distances]
@@ -88,7 +87,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 ## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
 > **Date**: October 23rd, 2024
 >
-> **Presenter**: 
+> **Presenter**: [Yilong Hou](https://statistics.berkeley.edu/people/yilong-hou)
 >
 > **Reading**: [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434)
 
