@@ -65,7 +65,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Reading**: Villani (2021) Sections 7.1, 7.4, Exercise 7.11
 >
-> **Optional Reading**: Villani (2021) Sections 7.2-7.3, [Engquist, Froese and Yang (2016)](https://arxiv.org/pdf/1602.01540) Theorem 5
+> **Optional Reading**: Villani (2021) Sections 7.2-7.3; [Engquist, Froese, & Yang (2016)](https://arxiv.org/pdf/1602.01540) Theorem 5
 *   Why Wasserstein distance is a metric
 *   Gluing lemma to prove the triangle inequality
 *   Proof of gluing lemma
