@@ -17,6 +17,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 
 - **Agueh, M., & Carlier, G. (2011). Barycenters in the Wasserstein space. _SIAM Journal on Mathematical Analysis, 43_(2), 904-924.**
 - **Agueh, M., & Carlier, G. (2017). Vers un théorème de la limite centrale dans l'espace de Wasserstein?. _Comptes Rendus. Mathématique_, 355(7), 812-818.**
+- **Ambrosio, L., Gigli, N., & Savaré, G. (2008). _Gradient flows: in metric spaces and in the space of probability measures._ Springer Science & Business Media.**
 - **Chernozhukov, V., Galichon, A., Hallin, M., & Henry, M. (2017). Monge–Kantorovich depth, quantiles, ranks and signs.**
 - **Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.**
 - **Panaretos, V. M., & Zemel, Y. (2020). _An invitation to statistics in Wasserstein space_ (p. 147). Springer Nature.**
@@ -67,7 +68,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Reading**: Villani (2021) Sections 7.1, 7.4, Exercise 7.11
 >
-> **Optional Reading**: Villani (2021) Sections 7.2-7.3; [Engquist, Froese, & Yang (2016)](https://arxiv.org/pdf/1602.01540) Theorem 5
+> **Optional Reading**: Villani (2021) Sections 7.2-7.3; [Engquist, Froese & Yang (2016)](https://arxiv.org/pdf/1602.01540) Theorem 5
 *   Wasserstein metric: nonnegativity and symmetry
 *   Gluing lemma to prove the triangle inequality
 *   Proof of gluing lemma
@@ -95,20 +96,20 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434)
 
 
-## [Gradient Flows]
+## [Benamou-Brenier Formulation]
 > **Date**: October 30th, 2024
 >
 > **Presenter**: 
 >
-> **Reading**: 
+> **Reading**: Villani (2021) Chapter 8
 
 
-## [Geodesics in Probability Spaces]
+## [Gradient Flows and Geodesics]
 > **Date**: November 6th, 2024
 >
 > **Presenter**: 
 >
-> **Reading**: 
+> **Reading**: Ambrosio, Gigli & Savaré (2008)
 
 
 ## [Variational Formulation of Fokker-Planck Equation]
