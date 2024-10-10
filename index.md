@@ -85,7 +85,6 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: [Agueh & Carlier (2011)](https://epubs.siam.org/doi/epdf/10.1137/100805741); [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500)
 >
 > **Optional Reading**: [Agueh & Carlier (2017)](https://www.sciencedirect.com/science/article/pii/S1631073X17301528); Panaretos & Zemel (2020)
-*   Fréchet means
 
 
 ## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
@@ -96,8 +95,16 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434)
 
 
-## [Benamou-Brenier Formulation]
+## [Estimation of Fréchet Means]
 > **Date**: October 30th, 2024
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Benamou-Brenier Formulation and Monge–Kantorovich Gradient]
+> **Date**: November 6th, 2024
 >
 > **Presenter**: 
 >
@@ -105,22 +112,16 @@ Our weekly reading materials will be drawn from the following list, though it is
 
 
 ## [Gradient Flows and Geodesics]
-> **Date**: November 6th, 2024
->
-> **Presenter**: 
->
-> **Reading**: Ambrosio, Gigli & Savaré (2008)
-
-
-## [Variational Formulation of Fokker-Planck Equation]
 > **Date**: November 13th, 2024
 >
 > **Presenter**: 
 >
-> **Reading**: 
+> **Reading**: Ambrosio, Gigli & Savaré (2008)
+>
+> **Optional Reading**: Villani (2021) Chapter 5
 
 
-## [Estimation under Wasserstein Loss]
+## [Variational Formulation of Fokker-Planck Equation]
 > **Date**: November 20th, 2024
 >
 > **Presenter**: 
