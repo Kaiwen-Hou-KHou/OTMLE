@@ -15,6 +15,8 @@ To stay informed about our reading group sessions and the latest developments at
 
 Our weekly reading materials will be drawn from the following list, though it is not exhaustive. We have carefully hand-picked these resources to offer not only a comprehensive introduction to optimal transport theories but also to emphasize aspects that are potentially useful in relation to TMLE.
 
+- **Agueh, M., & Carlier, G. (2011). Barycenters in the Wasserstein space. _SIAM Journal on Mathematical Analysis, 43_(2), 904-924.**
+- **Agueh, M., & Carlier, G. (2017). Vers un théorème de la limite centrale dans l'espace de Wasserstein?. _Comptes Rendus. Mathématique_, 355(7), 812-818.**
 - **Chernozhukov, V., Galichon, A., Hallin, M., & Henry, M. (2017). Monge–Kantorovich depth, quantiles, ranks and signs.**
 - **Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.**
 - **Panaretos, V. M., & Zemel, Y. (2020). _An invitation to statistics in Wasserstein space_ (p. 147). Springer Nature.**
@@ -74,14 +76,15 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Convexity properties and behavior under rescaled convolution
 
 
-## [Statistical Aspects of Wasserstein Distances]
+## [Statistics Based on Wasserstein Distances]
 > **Date**: October 16th, 2024
 >
 > **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
 >
-> **Reading**: [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500)
+> **Reading**: [Agueh & Carlier (2011)](https://epubs.siam.org/doi/epdf/10.1137/100805741); [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500)
 >
-> **Optional Reading**: Panaretos & Zemel (2020)
+> **Optional Reading**: [Agueh & Carlier (2017)](https://www.sciencedirect.com/science/article/pii/S1631073X17301528); Panaretos & Zemel (2020)
+*   Fréchet means
 
 
 ## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
