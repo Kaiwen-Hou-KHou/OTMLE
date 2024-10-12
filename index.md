@@ -83,9 +83,11 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
 >
-> **Reading**: [Agueh & Carlier (2011)](https://epubs.siam.org/doi/epdf/10.1137/100805741); [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500)
+> **Reading**: [Agueh & Carlier (2011)](https://epubs.siam.org/doi/epdf/10.1137/100805741); [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500) Sections 3-4
 >
-> **Optional Reading**: [Agueh & Carlier (2017)](https://www.sciencedirect.com/science/article/pii/S1631073X17301528); Panaretos & Zemel (2020)
+> **Optional Reading**: [Agueh & Carlier (2017)](https://www.sciencedirect.com/science/article/pii/S1631073X17301528); [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500) Other Sections; Panaretos & Zemel (2020)
+*   
+*   Gluing lemma to prove the triangle inequality
 
 
 ## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
