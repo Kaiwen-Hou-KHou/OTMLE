@@ -2,7 +2,7 @@
 layout: default
 ---
 
-At UC Berkeley's [Center for Targeted Machine Learning and Causal Inference](https://ctml.berkeley.edu/), our **OTMLE** (**O**ptimal **T**ransport and Targeted **M**aximum **L**ikelihood **E**stimation) reading group explores the intersection of optimal transport theory and TMLE, offering a fresh perspective on how TMLE fluctuations of probability measures can be understood. The group covers key topics, including _history of optimal transport_, _Wasserstein metrics_, _geodesics_, _gradient flows_, _statistical estimation_, and _information geometry_. Each session focuses on one of these themes, providing participants with a comprehensive foundation to bridge optimal transport with statistical estimation techniques in TMLE.
+At UC Berkeley's [Center for Targeted Machine Learning and Causal Inference](https://ctml.berkeley.edu/), our **OTMLE** (**O**ptimal Transport and **T**argeted **M**aximum **L**ikelihood **E**stimation) reading group explores the intersection of optimal transport theory and TMLE, offering a fresh perspective on how TMLE fluctuations of probability measures can be understood. The group covers key topics, including _history of optimal transport_, _Wasserstein metrics_, _geodesics_, _gradient flows_, _statistical estimation_, and _information geometry_. Each session focuses on one of these themes, providing participants with a comprehensive foundation to bridge optimal transport with statistical estimation techniques in TMLE.
 
 We invite _all_ enthusiasts, researchers, and practitioners—regardless of affiliation with the CTML—to join our reading group sessions. Your interest and contributions are highly valued, as we believe that a diverse community fosters richer discussions and deeper understanding. Whether you're new to the field or have extensive experience, we welcome you to be part of our collaborative exploration of optimal transport and TMLE.
 
@@ -78,16 +78,17 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Convexity properties and behavior under rescaled convolution
 
 
-## [Statistics Based on Wasserstein Distances]
+## [Statistical Inference Based on Wasserstein Distances]
 > **Date**: October 16th, 2024
 >
 > **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
 >
-> **Reading**: [Agueh & Carlier (2011)](https://epubs.siam.org/doi/epdf/10.1137/100805741); [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500) Sections 3-4
+> **Reading**: [Agueh & Carlier (2011)](https://epubs.siam.org/doi/epdf/10.1137/100805741) Sections 1-3; [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500) Sections 3-4
 >
-> **Optional Reading**: [Agueh & Carlier (2017)](https://www.sciencedirect.com/science/article/pii/S1631073X17301528); [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500) Other Sections; Panaretos & Zemel (2020)
-*   
-*   Gluing lemma to prove the triangle inequality
+> **Optional Reading**: [Agueh & Carlier (2011)](https://epubs.siam.org/doi/epdf/10.1137/100805741) Section 6; [Agueh & Carlier (2017)](https://www.sciencedirect.com/science/article/pii/S1631073X17301528); [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500) Sections 5-6; Panaretos & Zemel (2020)
+*   Optimal transport as a tool for statistical inference
+*   Statistical inference of optimal transport
+*   Frechet means
 
 
 ## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
@@ -103,7 +104,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: 
 >
-> **Reading**: 
+> **Optional Reading**: Bigot et al. (2018)
 
 
 ## [Benamou-Brenier Formulation and Monge–Kantorovich Gradient]
