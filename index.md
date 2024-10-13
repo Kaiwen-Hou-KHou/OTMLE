@@ -104,7 +104,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: 
 >
-> **Optional Reading**: Bigot et al. (2018)
+> **Optional Reading**: [Bigot et al. (2018)](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-12/issue-2/Upper-and-lower-risk-bounds-for-estimating-the-Wasserstein-barycenter/10.1214/18-EJS1400.full)
 
 
 ## [Benamou-Brenier Formulation and Monge–Kantorovich Gradient]
