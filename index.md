@@ -60,7 +60,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Cyclical monotonicity and Rockafellar's theorem
 *   Monge–Ampère equation
 *   Existence of optimal transport plan in Kantorovich's formulation
-*   [Duality and double convexification](./notes/double_convexification.pdf) (scribed by Qiuran Lyu)
+*   [Duality and double convexification](./notes/double_convexification.pdf) (scribed by [Qiuran Lyu](https://lqrrrrr.github.io/))
 
 
 ## [Wasserstein Distances]
@@ -84,9 +84,9 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
 >
-> **Reading**: [Agueh & Carlier (2011)](https://epubs.siam.org/doi/epdf/10.1137/100805741) Sections 1-3; [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500) Sections 3-4
+> **Reading**: Villani (2021) Sections 2.1.5, 5.1.3; [Agueh & Carlier (2011)](https://epubs.siam.org/doi/epdf/10.1137/100805741) Sections 1-3, 6; [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500) Sections 3-4
 >
-> **Optional Reading**: [Agueh & Carlier (2011)](https://epubs.siam.org/doi/epdf/10.1137/100805741) Section 6; [Agueh & Carlier (2017)](https://www.sciencedirect.com/science/article/pii/S1631073X17301528); [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500) Sections 5-6; Panaretos & Zemel (2020)
+> **Optional Reading**: Villani (2021) Sections 5.2.1-5.2.2; [Agueh & Carlier (2017)](https://www.sciencedirect.com/science/article/pii/S1631073X17301528); Panaretos & Zemel (2020)
 *   Optimal transport as a tool for statistical inference
 *   Statistical inference of optimal transport
 *   Frechet means
