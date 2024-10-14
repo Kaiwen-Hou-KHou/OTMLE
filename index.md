@@ -60,6 +60,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Cyclical monotonicity and Rockafellar's theorem
 *   Monge–Ampère equation
 *   Existence of optimal transport plan in Kantorovich's formulation
+*   [Duality and double convexification](./notes/double_convexification.pdf) (scribed by Qiuran Lyu)
 
 
 ## [Wasserstein Distances]
