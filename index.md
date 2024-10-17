@@ -92,7 +92,9 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Subadditivity of Wasserstein distances w.r.t. convolutions
 *   Wasserstein test statistics for empirical measures and/or two samples
 *   Asymptotic distributions of Wasserstein test statistics under univariate measures
-*   Examples of Wasserstein Fréchet mean: location family in $R$, two measures in $R^n$
+*   Wasserstein Fréchet mean of univariate location family: sufficient condition
+*   Wasserstein Fréchet mean of two measures: displacement interpolation
+*   Wasserstein Fréchet mean of Gaussian distributions is Gaussian
 
 
 ## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
