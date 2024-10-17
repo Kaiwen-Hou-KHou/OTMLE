@@ -18,8 +18,8 @@ Our weekly reading materials will be drawn from the following list, though it is
 - **Agueh, M., & Carlier, G. (2011). Barycenters in the Wasserstein space. _SIAM Journal on Mathematical Analysis, 43_(2), 904-924.**
 - **Agueh, M., & Carlier, G. (2017). Vers un théorème de la limite centrale dans l'espace de Wasserstein?. _Comptes Rendus. Mathématique_, 355(7), 812-818.**
 - **Ambrosio, L., Gigli, N., & Savaré, G. (2008). _Gradient flows: in metric spaces and in the space of probability measures._ Springer Science & Business Media.**
-- **Bigot, J., Gouet, R., Klein, T., & López, A. (2018). Upper and lower risk bounds for estimating the Wasserstein barycenter of random measures on the real line.**
 - **Chernozhukov, V., Galichon, A., Hallin, M., & Henry, M. (2017). Monge–Kantorovich depth, quantiles, ranks and signs.**
+- **Gibbs, A. L., & Su, F. E. (2002). On choosing and bounding probability metrics. _International statistical review, 70_(3), 419-435.**
 - **Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.**
 - **Panaretos, V. M., & Zemel, Y. (2020). _An invitation to statistics in Wasserstein space_ (p. 147). Springer Nature.**
 - **Peyré, G., & Cuturi, M. (2019). Computational optimal transport: With applications to data science. _Foundations and Trends® in Machine Learning, 11_(5-6), 355-607.**
@@ -97,20 +97,23 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Wasserstein Fréchet mean of Gaussian distributions is Gaussian
 
 
-## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
+## [Ten Metrics on Probability Measures]
 > **Date**: October 23rd, 2024
+>
+> **Presenter**: [Qiuran Lyu](https://lqrrrrr.github.io/)
+>
+> **Reading**: [Gibbs & Su (2002)](https://arxiv.org/pdf/math/0209021) Figure 1, Sections 2-3
+>
+> **Optional Reading**: [Peyré & Cuturi (2019)](https://arxiv.org/pdf/1803.00567) Sections 8.1-8.4
+![Ten Metrics](https://www.researchgate.net/profile/Werner_Zellinger/publication/340860035/figure/fig4/AS:883325535256576@1587612627177/Relationships-among-probability-metrics-as-illustrated-in-66-and-supplemented-by.ppm)
+
+
+## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
+> **Date**: October 30th, 2024
 >
 > **Presenter**: [Yilong Hou](https://statistics.berkeley.edu/people/yilong-hou)
 >
 > **Reading**: [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434)
-
-
-## [Estimation of Fréchet Means]
-> **Date**: October 30th, 2024
->
-> **Presenter**: 
->
-> **Optional Reading**: [Bigot et al. (2018)](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-12/issue-2/Upper-and-lower-risk-bounds-for-estimating-the-Wasserstein-barycenter/10.1214/18-EJS1400.full)
 
 
 ## [Benamou-Brenier Formulation and Monge–Kantorovich Gradient]
