@@ -105,7 +105,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: [Gibbs & Su (2002)](https://arxiv.org/pdf/math/0209021) Figure 1, Sections 2-3
 >
 > **Optional Reading**: [Peyré & Cuturi (2019)](https://arxiv.org/pdf/1803.00567) Sections 8.1-8.4
-![Ten Metrics](https://www.researchgate.net/profile/Werner_Zellinger/publication/340860035/figure/fig4/AS:883325535256576@1587612627177/Relationships-among-probability-metrics-as-illustrated-in-66-and-supplemented-by.ppm)
+![Ten Metrics](./figs/ten_metrics.jpg)
 
 
 ## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
