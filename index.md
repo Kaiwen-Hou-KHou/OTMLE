@@ -19,13 +19,16 @@ Our weekly reading materials will be drawn from the following list, though it is
 - **Agueh, M., & Carlier, G. (2017). Vers un théorème de la limite centrale dans l'espace de Wasserstein?. _Comptes Rendus. Mathématique_, 355(7), 812-818.**
 - **Ambrosio, L., Gigli, N., & Savaré, G. (2008). _Gradient flows: in metric spaces and in the space of probability measures._ Springer Science & Business Media.**
 - **Chernozhukov, V., Galichon, A., Hallin, M., & Henry, M. (2017). Monge–Kantorovich depth, quantiles, ranks and signs.**
+- **Figalli, A., & Glaudo, F. (2021). _An invitation to optimal transport, Wasserstein distances, and gradient flows._**
 - **Gibbs, A. L., & Su, F. E. (2002). On choosing and bounding probability metrics. _International statistical review, 70_(3), 419-435.**
 - **Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.**
 - **Panaretos, V. M., & Zemel, Y. (2020). _An invitation to statistics in Wasserstein space_ (p. 147). Springer Nature.**
 - **Peyré, G., & Cuturi, M. (2019). Computational optimal transport: With applications to data science. _Foundations and Trends® in Machine Learning, 11_(5-6), 355-607.**
 - **Santambrogio, F. (2015). Optimal transport for applied mathematicians. _Birkäuser, NY_, 55(58-63), 94.**
+- **Tsybakov, A. B. (2009). Lower bounds on the minimax risk. _Introduction to Nonparametric Estimation_, 77-135.**
 - **Villani, C. (2009). _Optimal transport: old and new_ (Vol. 338, p. 23). Berlin: springer.**
 - **Villani, C. (2021). _Topics in optimal transportation_ (Vol. 58). American Mathematical Soc..**
+- **Wainwright, M. J. (2019). High-dimensional statistics: A non-asymptotic viewpoint (Vol. 48). Cambridge university press.**
 
 
 ## [Introduction]
@@ -104,11 +107,14 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Reading**: [Gibbs & Su (2002)](https://arxiv.org/pdf/math/0209021) Figure 1, Sections 2-3
 >
-> **Optional Reading**: [Peyré & Cuturi (2019)](https://arxiv.org/pdf/1803.00567) Sections 8.1-8.4
+> **Optional Reading**: [Peyré & Cuturi (2019)](https://arxiv.org/pdf/1803.00567) Sections 8.1-8.4; Tsybakov (2009) Section 2.4; Wainwright (2019) Chapter 15
 ![Ten Metrics](./figs/ten_metrics.jpg)
+*   Definitions
+*   f-divergence
+*   Metric inequalities
 
 
-## [Monge–Kantorovich Depth, Quantiles, Ranks and Signs]
+## [Monge–Kantorovich Depth]
 > **Date**: October 30th, 2024
 >
 > **Presenter**: [Yilong Hou](https://statistics.berkeley.edu/people/yilong-hou)
@@ -116,22 +122,27 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434)
 
 
-## [Benamou-Brenier Formulation and Monge–Kantorovich Gradient]
+## [Euler Equation and Geodesics]
 > **Date**: November 6th, 2024
 >
-> **Presenter**: 
+> **Presenter**: Michael Wang
 >
-> **Reading**: Villani (2021) Chapter 8
+> **Reading**: Figalli & Glaudo (2021) Section 1.3; Villani (2021) Section 3.2
+>
+> **Optional Reading**: Figalli & Glaudo (2021) Section 2.5.4
+*   Basics of Riemannian geometry: tangent space, gradient, Riemannian distance, and geodesic
+*   Incompressible Euler equation
+*   Lagrangian formulation and diffeomorphisms
+*   Arnold's geodesic interpretation
+*   Brenier's approximate geodesics
 
 
-## [Gradient Flows and Geodesics]
+## [Benamou-Brenier Formulation and Monge–Kantorovich Gradient]
 > **Date**: November 13th, 2024
 >
-> **Presenter**: 
+> **Presenter**: [Yi Li](https://ctml.berkeley.edu/people/yi-li)
 >
-> **Reading**: Ambrosio, Gigli & Savaré (2008)
->
-> **Optional Reading**: Villani (2021) Chapter 5
+> **Reading**: Villani (2021) Chapter 8
 
 
 ## [Variational Formulation of Fokker-Planck Equation]
