@@ -120,7 +120,8 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Presenter**: [Yilong Hou](https://statistics.berkeley.edu/people/yilong-hou)
 >
 > **Reading**: [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434)
-![Depth](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-Monge-Kantorovich-depth-contours-for-the-same-banana-shaped-distribution-from-a_fig2_315371422&psig=AOvVaw2JomIxddxkcBDl56GhJbV9&ust=1729826307433000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICBrKeHpokDFQAAAAAdAAAAABAE)
+> **Reading**: [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434)
+![Depth](./figs/depth.jpg)
 
 
 ## [Euler Equation and Geodesics]
