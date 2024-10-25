@@ -118,7 +118,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: [Yilong Hou](https://statistics.berkeley.edu/people/yilong-hou)
 >
-> **Reading**: Villani (2021) Theorem 2.9; [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434) Paragraphs "Notation, conventions and preliminaries", "MK depth is halfspace depth in dimension 1", Sections 2.3, 3.2-3.3, A, B3-4
+> **Reading**: Villani (2021) Proposition 2.4, Theorem 2.9; [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434) Paragraphs "Notation, conventions and preliminaries", "MK depth is halfspace depth in dimension 1", Sections 2.3, 3.2-3.3, A, B3-4
 >
 > **Optional Reading**: [Duality and double convexification](./notes/double_convexification.pdf) (scribed by [Qiuran Lyu](https://lqrrrrr.github.io/))
 ![Depth](./figs/depth.jpg)
