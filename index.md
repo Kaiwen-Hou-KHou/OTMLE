@@ -63,7 +63,6 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Cyclical monotonicity and Rockafellar's theorem
 *   Monge–Ampère equation
 *   Existence of optimal transport plan in Kantorovich's formulation
-*   [Duality and double convexification](./notes/double_convexification.pdf) (scribed by [Qiuran Lyu](https://lqrrrrr.github.io/))
 
 
 ## [Wasserstein Distances]
@@ -119,9 +118,15 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: [Yilong Hou](https://statistics.berkeley.edu/people/yilong-hou)
 >
-> **Reading**: [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434)
-> **Reading**: [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434)
+> **Reading**: Villani (2021) Theorem 2.9; [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434) Paragraph "Notation, conventions and preliminaries", "MK depth is halfspace depth in dimension 1", Section 2.3, 3.2-3.3, A, B3-4
+>
+> **Optional Reading**: [Duality and double convexification](./notes/double_convexification.pdf) (scribed by [Qiuran Lyu](https://lqrrrrr.github.io/))
 ![Depth](./figs/depth.jpg)
+*   Statistical depth and Tukey halfspace depth
+*   Monge–Kantorovich depth
+*   Kantorovich-Brenier theorem
+*   Empirical depth, quantiles, and ranks
+*   Uniform convergence of empirical transport maps
 
 
 ## [Euler Equation and Geodesics]
