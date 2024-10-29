@@ -110,7 +110,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 ![Ten Metrics](./figs/ten_metrics.jpg)
 *   Definitions
 *   f-divergence
-*   Metric inequalities
+*   Metric inequalities and [proof](./notes/metric_inequalities.pdf)
 
 
 ## [Monge–Kantorovich Depth]
