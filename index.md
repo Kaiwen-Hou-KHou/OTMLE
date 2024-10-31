@@ -122,7 +122,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Optional Reading**: [Duality and double convexification](./notes/double_convexification.pdf) (scribed by [Qiuran Lyu](https://lqrrrrr.github.io/))
 ![Depth](./figs/depth.jpg)
-*   Statistical depth and Tukey halfspace depth
+*   [Statistical depth and Tukey halfspace depth](./notes/preliminary_statistical_depth.pdf)
 *   Monge–Kantorovich depth
 *   Kantorovich-Brenier theorem
 *   Empirical depth, quantiles, and ranks
