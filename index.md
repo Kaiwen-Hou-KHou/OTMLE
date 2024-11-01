@@ -134,14 +134,13 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: Michael Wang
 >
-> **Reading**: Figalli & Glaudo (2021) Section 1.3; Villani (2021) Section 3.2
+> **Reading**: Figalli & Glaudo (2021) Sections 1.3, 2.5.4
 >
-> **Optional Reading**: Figalli & Glaudo (2021) Section 2.5.4
+> **Optional Reading**: Villani (2021) Theorem 3.8, Sections 3.2-3.3
 *   Basics of Riemannian geometry: tangent space, gradient, Riemannian distance, and geodesic
 *   Incompressible Euler equation
-*   Lagrangian formulation and diffeomorphisms
 *   Arnold's geodesic interpretation
-*   Brenier's approximate geodesics
+*   Brenier's approximate geodesics and polar factorization theorem
 
 
 ## [Benamou-Brenier Formulation and Monge–Kantorovich Gradient]
