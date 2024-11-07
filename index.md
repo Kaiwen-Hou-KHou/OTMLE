@@ -21,6 +21,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 - **Chernozhukov, V., Galichon, A., Hallin, M., & Henry, M. (2017). Monge–Kantorovich depth, quantiles, ranks and signs.**
 - **Figalli, A., & Glaudo, F. (2021). _An invitation to optimal transport, Wasserstein distances, and gradient flows._**
 - **Gibbs, A. L., & Su, F. E. (2002). On choosing and bounding probability metrics. _International statistical review, 70_(3), 419-435.**
+- **Jordan, R., Kinderlehrer, D., & Otto, F. (1998). The variational formulation of the Fokker--Planck equation. _SIAM journal on mathematical analysis, 29_(1), 1-17.**
 - **Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.**
 - **Panaretos, V. M., & Zemel, Y. (2020). _An invitation to statistics in Wasserstein space_ (p. 147). Springer Nature.**
 - **Peyré, G., & Cuturi, M. (2019). Computational optimal transport: With applications to data science. _Foundations and Trends® in Machine Learning, 11_(5-6), 355-607.**
@@ -132,15 +133,17 @@ Our weekly reading materials will be drawn from the following list, though it is
 ## [Euler Equation and Geodesics]
 > **Date**: November 6th, 2024
 >
-> **Presenter**: Michael Wang
+> **Presenter**: Mingxun Wang
 >
 > **Reading**: Figalli & Glaudo (2021) Sections 1.3, 2.5.4
 >
-> **Optional Reading**: Villani (2021) Theorem 3.8, Sections 3.2-3.3
-*   Basics of Riemannian geometry: tangent space, gradient, Riemannian distance, and geodesic
+> **Optional Reading**: Villani (2021) Theorem 3.8, Sections 3.1-3.3; [Notes](./notes/polar_factorization.pdf)
+*   Basics of Riemannian geometry: tangent space, gradient, arc length parameterization, Riemannian distance, and geodesic
 *   Incompressible Euler equation
-*   Arnold's geodesic interpretation
-*   Brenier's approximate geodesics and polar factorization theorem
+*   Arnold's geodesic interpretation: measure-preserving orientation-preserving diffeomorphism
+*   Brenier's approximate geodesics: midpoint projection onto closure
+*   Polar factorization theorem
+*   Helmholtz decomposition of differentiable vector fields into irrotational and solenoidal vector fields
 
 
 ## [Benamou-Brenier Formulation and Monge–Kantorovich Gradient]
@@ -148,7 +151,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: [Yi Li](https://ctml.berkeley.edu/people/yi-li)
 >
-> **Reading**: Villani (2021) Chapter 8
+> **Reading**: Villani (2021) Sections 8.1-8.3
 
 
 ## [Variational Formulation of Fokker-Planck Equation]
@@ -156,7 +159,9 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: 
 >
-> **Reading**: 
+> **Reading**: [Jordan, Kinderlehrer & Otto (1998)](https://francahoffmann.com/wp-content/uploads/2018/07/302ca7465ae824f3d2d629bfeaacfb56b4b8.pdf)
+>
+> **Optional Reading**: Villani (2021) Sections 8.4-8.5
 
 
 ## [Information Geometry and Statistical Manifolds]
