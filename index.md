@@ -151,25 +151,31 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: [Yi Li](https://ctml.berkeley.edu/people/yi-li)
 >
-> **Reading**: Villani (2021) Sections 8.1-8.3
+> **Reading**: Villani (2021) Sections 8.1-8.2
+>
+> **Optional Reading**: Villani (2021) Sections 5.1, 8.3
 
 
 ## [Variational Formulation of Fokker-Planck Equation]
 > **Date**: November 20th, 2024
 >
-> **Presenter**: 
+> **Presenter**: [Yi Li](https://ctml.berkeley.edu/people/yi-li)
 >
 > **Reading**: [Jordan, Kinderlehrer & Otto (1998)](https://francahoffmann.com/wp-content/uploads/2018/07/302ca7465ae824f3d2d629bfeaacfb56b4b8.pdf)
 >
 > **Optional Reading**: Villani (2021) Sections 8.4-8.5
 
 
-## [Information Geometry and Statistical Manifolds]
+## [Four Approaches to Wasserstein Gradient Flows]
 > **Date**: December 4th, 2024
 >
 > **Presenter**: 
 >
-> **Reading**: 
+> **Reading**: Ambrosio, Gigli & Savaré (2008) Chapter 11
+*   Variational approximation scheme
+*   Curves of maximal slope
+*   Pointwise differential formulation
+*   Systems of evolution variational inequalities
 
 
 Join us on [Zoom](https://berkeley.zoom.us/j/91970465738) if you can’t attend in person, and don't forget to subscribe to [this channel](https://kaltura.berkeley.edu/channel/CTML+Channel/358899692/subscribe) for access to the recordings.
