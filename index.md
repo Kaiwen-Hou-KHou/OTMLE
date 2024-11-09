@@ -146,7 +146,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Helmholtz decomposition of differentiable vector fields into irrotational and solenoidal vector fields
 
 
-## [Benamou-Brenier Formulation and Monge–Kantorovich Gradient]
+## [Benamou-Brenier Formulation]
 > **Date**: November 13th, 2024
 >
 > **Presenter**: [Yi Li](https://ctml.berkeley.edu/people/yi-li)
@@ -169,7 +169,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 ## [Four Approaches to Wasserstein Gradient Flows]
 > **Date**: December 4th, 2024
 >
-> **Presenter**: 
+> **Presenter**: Kaiwen Hou
 >
 > **Reading**: Ambrosio, Gigli & Savaré (2008) Chapter 11
 *   Variational approximation scheme
