@@ -154,6 +154,9 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Reading**: Villani (2021) Sections 8.1-8.2
 >
 > **Optional Reading**: Villani (2021) Sections 5.1, 8.3
+*   Continuity equation: velocity field and Lagrangian specification of flow field
+*   Benamou-Brenier formulation of Wasserstein distance: kinetic energy and action functional
+*   Otto's calculus and interpretation
 
 
 ## [Variational Formulation of Fokker-Planck Equation]
@@ -161,9 +164,21 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: [Yi Li](https://ctml.berkeley.edu/people/yi-li)
 >
-> **Reading**: [Jordan, Kinderlehrer & Otto (1998)](https://francahoffmann.com/wp-content/uploads/2018/07/302ca7465ae824f3d2d629bfeaacfb56b4b8.pdf)
+> **Reading**: [Jordan, Kinderlehrer & Otto (1998)](https://francahoffmann.com/wp-content/uploads/2018/07/302ca7465ae824f3d2d629bfeaacfb56b4b8.pdf) Sections 1-2, 4-5
 >
-> **Optional Reading**: Villani (2021) Sections 8.4-8.5
+> **Optional Reading**: Villani (2021) Sections 8.4-8.5; Ambrosio, Gigli & Savaré (2008) Definition 3.1.1
+*   Fokker-Planck equation: unique stationary solution as the steepest descending direction
+*   Gradient flows, JKO scheme, and minimimizing movement
+*   L1-weak convergence of interpolated JKO process to the solution of Fokker-Planck equation
+*   Connections between Wasserstein gradient flows and Benamou-Brenier formulation
+
+
+## [Absolutely Continuous Curves]
+> **Date**: November 27th, 2024
+>
+> **Presenter**: Mingxun Wang
+>
+> **Reading**: Ambrosio, Gigli & Savaré (2008) Sections 8.3, 10.0-10.1
 
 
 ## [Four Approaches to Wasserstein Gradient Flows]
