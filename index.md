@@ -178,7 +178,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Presenter**: Mingxun Wang
 >
-> **Reading**: Ambrosio, Gigli & Savaré (2008) Sections 8.3, 10.0-10.1
+> **Reading**: Ambrosio, Gigli & Savaré (2008) Sections 8.1, 8.3, 10.0-10.1
 
 
 ## [Four Approaches to Wasserstein Gradient Flows]
