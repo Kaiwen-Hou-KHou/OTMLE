@@ -121,7 +121,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 >
 > **Reading**: Villani (2021) Proposition 2.4, Theorem 2.9; [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434) Paragraphs "Notation, conventions and preliminaries", "MK depth is halfspace depth in dimension 1", Sections 2.3, 3.2-3.3, A, B3-4
 >
-> **Optional Reading**: [Duality and double convexification](./notes/double_convexification.pdf) (scribed by [Qiuran Lyu](https://lqrrrrr.github.io/))
+> **Optional Reading**: [Duality and Double Convexification](./notes/double_convexification.pdf) (scribed by [Qiuran Lyu](https://lqrrrrr.github.io/))
 ![Depth](./figs/depth.jpg)
 *   [Statistical depth and Tukey halfspace depth](./notes/preliminary_statistical_depth.pdf)
 *   Monge–Kantorovich depth
@@ -179,6 +179,9 @@ Our weekly reading materials will be drawn from the following list, though it is
 > **Presenter**: Mingxun Wang
 >
 > **Reading**: Ambrosio, Gigli & Savaré (2008) Sections 8.1, 8.3, 10.0-10.1
+>
+> **Optional Reading**: [Continuity Equation and Benamou-Brenier Formulation](./notes/Michael_continuity_equation_and_BB_formulation.pdf); [Divergence Theorem](./notes/Michael_Gauss_divergence_theorem.pdf); [Gradient Flows](./notes/Michael_gradient_flow.pdf); [Brenier ODE](./notes/Michael_Brenier_ODE.pdf)
+*   
 
 
 ## [Four Approaches to Wasserstein Gradient Flows]
