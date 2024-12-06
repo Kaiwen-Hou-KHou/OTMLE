@@ -173,27 +173,36 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Connections between Wasserstein gradient flows and Benamou-Brenier formulation
 
 
-## [Absolutely Continuous Curves]
+## [Continuity Equation in the Sense of Distributions]
 > **Date**: November 27th, 2024
 >
 > **Presenter**: Mingxun Wang
 >
-> **Reading**: Ambrosio, Gigli & Savaré (2008) Sections 8.1, 8.3, 10.0-10.1
+> **Reading**: Ambrosio, Gigli & Savaré (2008) Section 8.1
 >
-> **Optional Reading**: [Continuity Equation and Benamou-Brenier Formulation](./notes/Michael_continuity_equation_and_BB_formulation.pdf); [Divergence Theorem](./notes/Michael_Gauss_divergence_theorem.pdf); [Gradient Flows](./notes/Michael_gradient_flow.pdf); [Brenier ODE](./notes/Michael_Brenier_ODE.pdf)
-*   
+> **Optional Reading**: Ambrosio, Gigli & Savaré (2008) Sections 1.1, 10.0-10.1; [Continuity Equation and Benamou-Brenier Formulation](./notes/Michael_continuity_equation_and_BB_formulation.pdf); [Divergence Theorem](./notes/Michael_Gauss_divergence_theorem.pdf); [Gradient Flows](./notes/Michael_gradient_flow.pdf); [Brenier ODE](./notes/Michael_Brenier_ODE.pdf)
+*   Divergence theorem
+*   Bounded variation, rectifiable curve, geodesic, metric derivative, and arc-length reparameterization
+*   Distribution: integration by parts, test function, local integrability
+*   Weak derivative and Sobolev space
+*   Continuity equation and weak solution
 
 
-## [Four Approaches to Wasserstein Gradient Flows]
+## [Gradient Flows]
 > **Date**: December 4th, 2024
 >
 > **Presenter**: Kaiwen Hou
 >
-> **Reading**: Ambrosio, Gigli & Savaré (2008) Chapter 11
-*   Variational approximation scheme
-*   Curves of maximal slope
-*   Pointwise differential formulation
-*   Systems of evolution variational inequalities
+> **Reading**: Ambrosio, Gigli & Savaré (2008) Sections 8.3-8.4, 11.1
+>
+> **Optional Reading**: Ambrosio, Gigli & Savaré (2008) Example 11.1.10, Definitions 5.1.11, 10.1.1, Theorem 8.3.1, Lemma 10.4.1
+*   Quantum drift-diffusion equation as gradient flow of the Fisher information
+*   Four approaches to Wasserstein gradient flows: variational approximation scheme, curves of maximal slope, pointwise differential formulation, and systems of evolution variational inequalities
+*   Duality map: Fréchet differential of Lp norm, compatibility with norm, and compatibility with inner product
+*   Tangent bundle and smooth cylindrical test functions
+*   Gradient flow equation: Fréchet subdifferential in Wasserstein space and differential inclusion
+*   Variational integral lemma: strong subdifferential is the gradient of first variation
+*   Gradient flow example: evolutionary parabolic PDEs of diffusion type
 
 
 Join us on [Zoom](https://berkeley.zoom.us/j/91970465738) if you can’t attend in person, and don't forget to subscribe to [this channel](https://kaltura.berkeley.edu/channel/CTML+Channel/358899692/subscribe) for access to the recordings.
