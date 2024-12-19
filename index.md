@@ -32,7 +32,10 @@ Our weekly reading materials will be drawn from the following list, though it is
 - **Wainwright, M. J. (2019). High-dimensional statistics: A non-asymptotic viewpoint (Vol. 48). Cambridge university press.**
 
 
-# 2024 Fall
+# Fall 2024: Foundations of Optimal Transport
+The Fall 2024 semester introduces participants to the foundational concepts of optimal transport, covering the three primary formulations: Monge, Kantorovich, and Benamou-Brenier formulations. These are explored alongside their respective characterizations of the Wasserstein distance and the optimal transport plans that emerge in each framework. This exploration provides a comprehensive understanding of how optimal transport establishes metrics over probability spaces and how these relate to statistical estimation and hypothesis testing.
+
+A key focus is understanding TMLE as a dynamic path in probability space, where optimal transport provides a spatial and geometric viewpoint. Participants examine how properties of optimal transport plans—such as monotonicity, duality, geodesics, and gradient flows—inform the theoretical underpinnings of TMLE. This semester emphasizes building a strong foundation and connecting the "moving mass" perspective of optimal transport to the iterative updates in TMLE.
 
 ## [Introduction]
 > **Date**: September 25th, 2024
@@ -207,7 +210,8 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Gradient flow example: evolutionary parabolic PDEs of diffusion type
 
 
-# 2025 Spring
+# Spring 2025: Advanced Topics in Probability Space Optimization
+In Spring 2025, participants further investigate the geometry of probability spaces and the implications for TMLE’s structure and behavior. Topics include deeper explorations of how optimal transport’s spatial and dynamic properties provide insights into likelihood-based optimization and its role in semiparametric models. Rather than diving into specific optimization techniques like natural gradient descent or Newton’s method, this semester focuses on laying the theoretical groundwork for understanding such methods in probability spaces. Participants refine their understanding of how probability space-based optimization differs fundamentally from traditional parameter space approaches. This exploration highlights the theoretical richness of TMLE’s operations in probability space and prepares participants to extend these ideas to advanced methods and practical implementations in their future work.
 
 ## [Tangent Spaces and Otto’s Calculus]
 > **Date**: 
