@@ -32,6 +32,8 @@ Our weekly reading materials will be drawn from the following list, though it is
 - **Wainwright, M. J. (2019). High-dimensional statistics: A non-asymptotic viewpoint (Vol. 48). Cambridge university press.**
 
 
+# 2024 Fall
+
 ## [Introduction]
 > **Date**: September 25th, 2024
 >
@@ -203,6 +205,130 @@ Our weekly reading materials will be drawn from the following list, though it is
 *   Gradient flow equation: Fréchet subdifferential in Wasserstein space and differential inclusion
 *   Variational integral lemma: strong subdifferential is the gradient of first variation
 *   Gradient flow example: evolutionary parabolic PDEs of diffusion type
+
+
+# 2025 Spring
+
+## [Tangent Spaces and Otto’s Calculus]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Tangent Cones and Horizontal Lifts]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Cotangent Structures and Duality]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [First Variations of Functionals]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Displacement Convexity and Basic Smoothness Results]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Differentiability Conditions in Wasserstein Space]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Monge–Ampère Equation]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Linearization of the Optimal Transport Problem]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Second Variations of Functionals]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Hessian Structures and Convexity]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Examples of Functionals with Known Hessians]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Regularity Theory from Hessians]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Geodesic Convexity and Smoothness in Depth]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [Spectral Analysis of Hessian Operators]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
+## [First-Order and Second-Order Theories of TMLE]
+> **Date**: 
+>
+> **Presenter**: 
+>
+> **Reading**: 
+
+
 
 
 Join us on [Zoom](https://berkeley.zoom.us/j/91970465738) if you can’t attend in person, and don't forget to subscribe to [this channel](https://kaltura.berkeley.edu/channel/CTML+Channel/358899692/subscribe) for access to the recordings.
