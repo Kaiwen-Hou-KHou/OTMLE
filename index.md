@@ -211,7 +211,7 @@ A key focus is understanding TMLE as a dynamic path in probability space, where 
 *   Gradient flow example: evolutionary parabolic PDEs of diffusion type
 
 
-# Spring 2025: Advanced Topics in Probability Space Optimization
+# Spring 2025: Geometry of Probability Space Optimization
 In Spring 2025, participants further investigate the geometry of probability spaces and the implications for TMLE’s structure and behavior. Topics include deeper explorations of how optimal transport’s spatial and dynamic properties provide insights into likelihood-based optimization and its role in semiparametric models. Rather than diving into specific optimization techniques like natural gradient descent or Newton’s method, this semester focuses on laying the theoretical groundwork for understanding such methods in probability spaces. Participants refine their understanding of how probability space-based optimization differs fundamentally from traditional parameter space approaches. This exploration highlights the theoretical richness of TMLE’s operations in probability space and prepares participants to extend these ideas to advanced methods and practical implementations in their future work.
 
 ## [Benamou-Brenier Formulation (2)]
@@ -227,7 +227,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Otto Calculus]
-> **Date**: January 15th, 2025
+> **Date**: 
 >
 > **Presenter**: 
 >
