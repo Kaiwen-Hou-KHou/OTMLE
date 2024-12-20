@@ -18,6 +18,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 - **Agueh, M., & Carlier, G. (2011). Barycenters in the Wasserstein space. _SIAM Journal on Mathematical Analysis, 43_(2), 904-924.**
 - **Agueh, M., & Carlier, G. (2017). Vers un théorème de la limite centrale dans l'espace de Wasserstein?. _Comptes Rendus. Mathématique_, 355(7), 812-818.**
 - **Ambrosio, L., Gigli, N., & Savaré, G. (2008). _Gradient flows: in metric spaces and in the space of probability measures._ Springer Science & Business Media.**
+- **Benamou, J. D., & Brenier, Y. (2000). A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem. _Numerische Mathematik, 84_(3), 375-393.**
 - **Chernozhukov, V., Galichon, A., Hallin, M., & Henry, M. (2017). Monge–Kantorovich depth, quantiles, ranks and signs.**
 - **Figalli, A., & Glaudo, F. (2021). _An invitation to optimal transport, Wasserstein distances, and gradient flows._**
 - **Gibbs, A. L., & Su, F. E. (2002). On choosing and bounding probability metrics. _International statistical review, 70_(3), 419-435.**
@@ -151,7 +152,7 @@ A key focus is understanding TMLE as a dynamic path in probability space, where 
 *   Helmholtz decomposition of differentiable vector fields into irrotational and solenoidal vector fields
 
 
-## [Benamou-Brenier Formulation]
+## [Benamou-Brenier Formulation (1)]
 > **Date**: November 13th, 2024
 >
 > **Presenter**: [Yi Li](https://ctml.berkeley.edu/people/yi-li)
@@ -213,52 +214,66 @@ A key focus is understanding TMLE as a dynamic path in probability space, where 
 # Spring 2025: Advanced Topics in Probability Space Optimization
 In Spring 2025, participants further investigate the geometry of probability spaces and the implications for TMLE’s structure and behavior. Topics include deeper explorations of how optimal transport’s spatial and dynamic properties provide insights into likelihood-based optimization and its role in semiparametric models. Rather than diving into specific optimization techniques like natural gradient descent or Newton’s method, this semester focuses on laying the theoretical groundwork for understanding such methods in probability spaces. Participants refine their understanding of how probability space-based optimization differs fundamentally from traditional parameter space approaches. This exploration highlights the theoretical richness of TMLE’s operations in probability space and prepares participants to extend these ideas to advanced methods and practical implementations in their future work.
 
-## [Tangent Spaces and Otto’s Calculus]
+## [Benamou-Brenier Formulation (2)]
+> **Date**: January 15th, 2025
+>
+> **Presenter**: 
+>
+> **Computational Reading**: [Peyré & Cuturi (2019)](https://arxiv.org/pdf/1803.00567) Section 7.1, Remark 2.30
+>
+> **Optional Reading**: [Benamou & Brenier (2000)](https://link.springer.com/article/10.1007/s002110050002)
+*   Convex formulation using momentum
+*   Connections with displacement interpolation
+
+
+## [Otto Calculus]
+> **Date**: January 15th, 2025
+>
+> **Presenter**: 
+>
+> **Theoretical Reading**: Villani (2009) Formulas 15.2, 15.7
+*   Gradient formula in Wasserstein space
+*   Hessian formula in Wasserstein space
+
+
+## [Tangent Bundle]
 > **Date**: 
 >
 > **Presenter**: 
 >
-> **Reading**: 
+> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 8.0, Equations 0.20-0.26, Definition 8.4.1, Lemma 8.4.2, Propositions 8.4.3-8.4.5
 
 
-## [Tangent Cones and Horizontal Lifts]
+## [Tangent Space, Cotangent Space, and Optimal Maps]
 > **Date**: 
 >
 > **Presenter**: 
 >
-> **Reading**: 
+> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 8.5, Remark 8.4.4
 
 
-## [Cotangent Structures and Duality]
+## [Displacement Convexity (1)]
 > **Date**: 
 >
 > **Presenter**: 
 >
-> **Reading**: 
+> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 9.0-9.2
 
 
-## [First Variations of Functionals]
+## [Subdifferential Calculus (1)]
 > **Date**: 
 >
 > **Presenter**: 
 >
-> **Reading**: 
+> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Sections 10.1-10.3
 
 
-## [Displacement Convexity and Basic Smoothness Results]
+## [Subdifferential Calculus (2)]
 > **Date**: 
 >
 > **Presenter**: 
 >
-> **Reading**: 
-
-
-## [Differentiability Conditions in Wasserstein Space]
-> **Date**: 
->
-> **Presenter**: 
->
-> **Reading**: 
+> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 10.4
 
 
 ## [Monge–Ampère Equation]
@@ -277,7 +292,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 > **Reading**: 
 
 
-## [Second Variations of Functionals]
+## [Second Variation]
 > **Date**: 
 >
 > **Presenter**: 
@@ -285,7 +300,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 > **Reading**: 
 
 
-## [Hessian Structures and Convexity]
+## [Hessians and Convexity]
 > **Date**: 
 >
 > **Presenter**: 
@@ -309,7 +324,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 > **Reading**: 
 
 
-## [Geodesic Convexity and Smoothness in Depth]
+## [Displacement Convexity (2)]
 > **Date**: 
 >
 > **Presenter**: 
