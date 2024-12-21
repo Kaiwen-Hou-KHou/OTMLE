@@ -215,19 +215,20 @@ A key focus is understanding TMLE as a dynamic path in probability space, where 
 In Spring 2025, participants further investigate the geometry of probability spaces and the implications for TMLE’s structure and behavior. Topics include deeper explorations of how optimal transport’s spatial and dynamic properties provide insights into likelihood-based optimization and its role in semiparametric models. Rather than diving into specific optimization techniques like natural gradient descent or Newton’s method, this semester focuses on laying the theoretical groundwork for understanding such methods in probability spaces. Participants refine their understanding of how probability space-based optimization differs fundamentally from traditional parameter space approaches. This exploration highlights the theoretical richness of TMLE’s operations in probability space and prepares participants to extend these ideas to advanced methods and practical implementations in their future work.
 
 ## [Benamou-Brenier Formulation (2)]
-> **Date**: January 15th, 2025
+> **Date**: January 22nd, 2025
 >
-> **Presenter**: 
+> **Presenter**: [Qiuran Lyu](https://lqrrrrr.github.io/)
 >
-> **Computational Reading**: [Peyré & Cuturi (2019)](https://arxiv.org/pdf/1803.00567) Section 7.1, Remark 2.30
+> **Computational Reading**: [Peyré & Cuturi (2019)](https://arxiv.org/pdf/1803.00567) Sections 7.1, 7.6, Remark 2.30
 >
 > **Optional Reading**: [Benamou & Brenier (2000)](https://link.springer.com/article/10.1007/s002110050002)
 *   Convex formulation using momentum
 *   Connections with displacement interpolation
+*   Dynamic formulation over the paths space: displacement interpolation and entropic interpolation
 
 
 ## [Otto Calculus]
-> **Date**: 
+> **Date**: January 29th, 2025
 >
 > **Presenter**: 
 >
@@ -237,7 +238,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Tangent Bundle]
-> **Date**: 
+> **Date**: February 5th, 2025
 >
 > **Presenter**: 
 >
@@ -245,7 +246,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Tangent Space, Cotangent Space, and Optimal Maps]
-> **Date**: 
+> **Date**: February 12th, 2025
 >
 > **Presenter**: 
 >
@@ -253,7 +254,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Displacement Convexity (1)]
-> **Date**: 
+> **Date**: February 19th, 2025
 >
 > **Presenter**: 
 >
@@ -261,7 +262,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Subdifferential Calculus (1)]
-> **Date**: 
+> **Date**: February 26th, 2025
 >
 > **Presenter**: 
 >
@@ -269,7 +270,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Subdifferential Calculus (2)]
-> **Date**: 
+> **Date**: March 5th, 2025
 >
 > **Presenter**: 
 >
@@ -277,7 +278,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Monge–Ampère Equation]
-> **Date**: 
+> **Date**: March 12th, 2025
 >
 > **Presenter**: 
 >
@@ -285,7 +286,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Linearization of the Optimal Transport Problem]
-> **Date**: 
+> **Date**: March 19th, 2025
 >
 > **Presenter**: 
 >
@@ -293,7 +294,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Second Variation]
-> **Date**: 
+> **Date**: April 2nd, 2025
 >
 > **Presenter**: 
 >
@@ -301,7 +302,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Hessians and Convexity]
-> **Date**: 
+> **Date**: April 9th, 2025
 >
 > **Presenter**: 
 >
