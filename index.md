@@ -280,7 +280,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 ## [Monge–Ampère Equation]
 > **Date**: March 12th, 2025
 >
-> **Presenter**: 
+> **Presenter**: Kaiwen Hou
 >
 > **Reading**: 
 
