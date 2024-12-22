@@ -215,7 +215,7 @@ A key focus is understanding TMLE as a dynamic path in probability space, where 
 In Spring 2025, participants further investigate the geometry of probability spaces and the implications for TMLE’s structure and behavior. Topics include deeper explorations of how optimal transport’s spatial and dynamic properties provide insights into likelihood-based optimization and its role in semiparametric models. Rather than diving into specific optimization techniques like natural gradient descent or Newton’s method, this semester focuses on laying the theoretical groundwork for understanding such methods in probability spaces. Participants refine their understanding of how probability space-based optimization differs fundamentally from traditional parameter space approaches. This exploration highlights the theoretical richness of TMLE’s operations in probability space and prepares participants to extend these ideas to advanced methods and practical implementations in their future work.
 
 ## [Benamou-Brenier Formulation (2)]
-> **Date**: January 24th, 2025 (First Hour)
+> **Date**: January 24th, 2025
 >
 > **Presenter**: [Qiuran Lyu](https://lqrrrrr.github.io/)
 >
@@ -225,16 +225,6 @@ In Spring 2025, participants further investigate the geometry of probability spa
 *   Convex formulation using momentum
 *   Connections with displacement interpolation
 *   Dynamic formulation over the paths space: displacement interpolation and entropic interpolation
-
-
-## [Otto Calculus]
-> **Date**: January 24th, 2025 (Second Hour)
->
-> **Presenter**: [Yi Li](https://ctml.berkeley.edu/people/yi-li)
->
-> **Theoretical Reading**: Villani (2009) Formulas 15.2, 15.7
-*   Gradient formula in Wasserstein space
-*   Hessian formula in Wasserstein space
 
 
 ## [Continuity Equation in the Sense of Distributions (2)]
@@ -285,8 +275,18 @@ In Spring 2025, participants further investigate the geometry of probability spa
 *   Convexity along generalized geodesics
 
 
-## [Subdifferential Calculus (1)]
+## [Otto Calculus]
 > **Date**: February 28th, 2025
+>
+> **Presenter**: [Yi Li](https://ctml.berkeley.edu/people/yi-li)
+>
+> **Theoretical Reading**: Villani (2009) Formulas 15.2, 15.7
+*   Gradient formula in Wasserstein space
+*   Hessian formula in Wasserstein space
+
+
+## [Subdifferential Calculus (1)]
+> **Date**: March 7th, 2025
 >
 > **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
 >
@@ -294,7 +294,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Subdifferential Calculus (2)]
-> **Date**: March 7th, 2025
+> **Date**: March 14th, 2025
 >
 > **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
 >
@@ -302,7 +302,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Monge–Ampère Equation]
-> **Date**: March 14th, 2025
+> **Date**: March 21th, 2025
 >
 > **Presenter**: Kaiwen Hou
 >
@@ -310,7 +310,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Linearization of the Optimal Transport Problem]
-> **Date**: March 21st, 2025
+> **Date**: 
 >
 > **Presenter**: 
 >
