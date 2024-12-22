@@ -179,7 +179,7 @@ A key focus is understanding TMLE as a dynamic path in probability space, where 
 *   Connections between Wasserstein gradient flows and Benamou-Brenier formulation
 
 
-## [Continuity Equation in the Sense of Distributions]
+## [Continuity Equation in the Sense of Distributions (1)]
 > **Date**: November 27th, 2024
 >
 > **Presenter**: Mingxun Wang
@@ -215,7 +215,7 @@ A key focus is understanding TMLE as a dynamic path in probability space, where 
 In Spring 2025, participants further investigate the geometry of probability spaces and the implications for TMLE’s structure and behavior. Topics include deeper explorations of how optimal transport’s spatial and dynamic properties provide insights into likelihood-based optimization and its role in semiparametric models. Rather than diving into specific optimization techniques like natural gradient descent or Newton’s method, this semester focuses on laying the theoretical groundwork for understanding such methods in probability spaces. Participants refine their understanding of how probability space-based optimization differs fundamentally from traditional parameter space approaches. This exploration highlights the theoretical richness of TMLE’s operations in probability space and prepares participants to extend these ideas to advanced methods and practical implementations in their future work.
 
 ## [Benamou-Brenier Formulation (2)]
-> **Date**: January 22nd, 2025
+> **Date**: January 24th, 2025 (First Hour)
 >
 > **Presenter**: [Qiuran Lyu](https://lqrrrrr.github.io/)
 >
@@ -228,57 +228,78 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Otto Calculus]
-> **Date**: January 29th, 2025
+> **Date**: January 24th, 2025 (Second Hour)
 >
-> **Presenter**: 
+> **Presenter**: [Yi Li](https://ctml.berkeley.edu/people/yi-li)
 >
 > **Theoretical Reading**: Villani (2009) Formulas 15.2, 15.7
 *   Gradient formula in Wasserstein space
 *   Hessian formula in Wasserstein space
 
 
-## [Tangent Bundle]
-> **Date**: February 5th, 2025
+## [Continuity Equation in the Sense of Distributions (2)]
+> **Date**: January 31st, 2025
+>
+> **Presenter**: Kaiwen Hou
+>
+> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Theorem 8.3.1, Lemma 8.3.2, Proposition 8.3.3
+*   Distributions in duality with smooth cylindrical test functions
+*   Tangent vector field as the velocity field with smallest Lp norm and equal to the metric derivative
+
+
+## [Tangent Space (1)]
+> **Date**: February 7th, 2025
 >
 > **Presenter**: 
 >
-> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 8.0, Equations 0.20-0.26, Definition 8.4.1, Lemma 8.4.2, Propositions 8.4.3-8.4.5
+> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 8.0, Equations 0.20-0.26, Definition 8.4.1, Lemma 8.4.2, Propositions 8.4.3, 8.4.5, 8.4.6
+*   Tangent bundle of 2-Wasserstein space
+*   General definition of tangent bundle of Wasserstein space
+*   Variational selection of tangent vectors
+*   Variational characterization of divergence-free vector fields
+*   Tangent vector to absolutely continuous curves
+*   Optimal transport plans along absolutely continuous curves
 
 
-## [Tangent Space, Cotangent Space, and Optimal Maps]
-> **Date**: February 12th, 2025
+## [Tangent Space (2)]
+> **Date**: February 14th, 2025
 >
 > **Presenter**: 
 >
-> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 8.5, Remark 8.4.4
+> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Remark 8.4.4, Section 8.5
+*   Cotangent space and duality
+*   Tangent space constructed from optimal maps
+*   Optimal displacement maps are tangent
 
 
 ## [Displacement Convexity (1)]
-> **Date**: February 19th, 2025
+> **Date**: February 21st, 2025
 >
 > **Presenter**: 
 >
 > **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 9.0-9.2
+*   Geodesically convex functionals
+*   Convexity along generalized geodesics
 
 
 ## [Subdifferential Calculus (1)]
-> **Date**: February 26th, 2025
+> **Date**: February 28th, 2025
 >
-> **Presenter**: 
+> **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
 >
 > **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Sections 10.1-10.3
 
 
 ## [Subdifferential Calculus (2)]
-> **Date**: March 5th, 2025
+> **Date**: March 7th, 2025
 >
-> **Presenter**: 
+> **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
 >
 > **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 10.4
 
 
 ## [Monge–Ampère Equation]
-> **Date**: March 12th, 2025
+> **Date**: March 14th, 2025
 >
 > **Presenter**: Kaiwen Hou
 >
@@ -286,7 +307,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Linearization of the Optimal Transport Problem]
-> **Date**: March 19th, 2025
+> **Date**: March 21st, 2025
 >
 > **Presenter**: 
 >
@@ -294,7 +315,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Second Variation]
-> **Date**: April 2nd, 2025
+> **Date**: April 4th, 2025
 >
 > **Presenter**: 
 >
@@ -302,7 +323,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Hessians and Convexity]
-> **Date**: April 9th, 2025
+> **Date**: April 11th, 2025
 >
 > **Presenter**: 
 >
@@ -310,7 +331,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Examples of Functionals with Known Hessians]
-> **Date**: 
+> **Date**: April 18th, 2025
 >
 > **Presenter**: 
 >
@@ -318,7 +339,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Regularity Theory from Hessians]
-> **Date**: 
+> **Date**: April 25th, 2025
 >
 > **Presenter**: 
 >
@@ -326,22 +347,14 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Displacement Convexity (2)]
-> **Date**: 
+> **Date**: May 2nd, 2025
 >
 > **Presenter**: 
 >
 > **Reading**: 
 
 
-## [Spectral Analysis of Hessian Operators]
-> **Date**: 
->
-> **Presenter**: 
->
-> **Reading**: 
-
-
-## [First-Order and Second-Order Theories of TMLE]
+## [Spectral Analysis]
 > **Date**: 
 >
 > **Presenter**: 
