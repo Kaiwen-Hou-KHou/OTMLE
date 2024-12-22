@@ -272,13 +272,16 @@ In Spring 2025, participants further investigate the geometry of probability spa
 *   Optimal displacement maps are tangent
 
 
-## [Displacement Convexity (1)]
+## [Geodesic Convexity (1)]
 > **Date**: February 21st, 2025
 >
 > **Presenter**: 
 >
+> **Computational Reading**: [Peyré & Cuturi (2019)](https://arxiv.org/pdf/1803.00567) Remarks 9.10, 9.13
+>
 > **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 9.0-9.2
 *   Geodesically convex functionals
+*   Squared 2-Wasserstein distance function is not convex along geodesics
 *   Convexity along generalized geodesics
 
 
@@ -346,7 +349,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 > **Reading**: 
 
 
-## [Displacement Convexity (2)]
+## [Geodesic Convexity (2)]
 > **Date**: May 2nd, 2025
 >
 > **Presenter**: 
