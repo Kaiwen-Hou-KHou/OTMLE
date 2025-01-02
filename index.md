@@ -99,7 +99,6 @@ A key focus is understanding TMLE as a dynamic path in probability space, where 
 > **Reading**: Villani (2021) Sections 2.1.5, 5.1.3; [Agueh & Carlier (2011)](https://hal.science/hal-00637399/document) Sections 1-3, 6; [Panaretos & Zemel (2019)](https://arxiv.org/pdf/1806.05500) Sections 2.1, 3.1
 >
 > **Optional Reading**: Villani (2021) Sections 5.2.1-5.2.2; Santambrogio (2015) Lemma 5.29, Proposition 5.32; [Agueh & Carlier (2017)](https://www.sciencedirect.com/science/article/pii/S1631073X17301528); Panaretos & Zemel (2020)
-![Wasserstein Barycenters](https://pbs.twimg.com/media/DOvO9KNWkAA8oIm?format=jpg&name=large)
 *   Properties of Wasserstein distances under shifts, scaling, and product measures
 *   Subadditivity of Wasserstein distances w.r.t. convolutions
 *   Wasserstein test statistics for empirical measures and/or two samples
@@ -117,7 +116,6 @@ A key focus is understanding TMLE as a dynamic path in probability space, where 
 > **Reading**: [Gibbs & Su (2002)](https://arxiv.org/pdf/math/0209021) Figure 1, Sections 2-3
 >
 > **Optional Reading**: [Peyré & Cuturi (2019)](https://arxiv.org/pdf/1803.00567) Sections 8.1-8.4; Tsybakov (2009) Section 2.4; Wainwright (2019) Chapter 15
-![Ten Metrics](./figs/ten_metrics.jpg)
 *   Definitions
 *   f-divergence
 *   Metric inequalities and [proof](./notes/metric_inequalities.pdf)
@@ -131,7 +129,6 @@ A key focus is understanding TMLE as a dynamic path in probability space, where 
 > **Reading**: Villani (2021) Proposition 2.4, Theorem 2.9; [Chernozhukov et al. (2017)](https://arxiv.org/pdf/1412.8434) Paragraphs "Notation, conventions and preliminaries", "MK depth is halfspace depth in dimension 1", Sections 2.3, 3.2-3.3, A, B3-4
 >
 > **Optional Reading**: [Duality and Double Convexification](./notes/double_convexification.pdf) (scribed by [Qiuran Lyu](https://lqrrrrr.github.io/))
-![Depth](./figs/depth.jpg)
 *   [Statistical depth and Tukey halfspace depth](./notes/preliminary_statistical_depth.pdf)
 *   Monge–Kantorovich depth
 *   Kantorovich-Brenier theorem
