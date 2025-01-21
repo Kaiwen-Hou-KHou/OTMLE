@@ -10,7 +10,7 @@ To stay informed about our reading group sessions and the latest developments at
 
 ![Optimal Transport](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/OTDD_Shovel-Figure.png)
 
-<span style="font-size: 5px;">*Image source: Microsoft Research. [Original image link](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/OTDD_Shovel-Figure.png). Used under [Microsoft's terms of use](https://www.microsoft.com/en-us/legal/terms-of-use).*</span>
+<span style="font-size: 10px;">*Image courtesy of Microsoft Research. [Original image link](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/OTDD_Shovel-Figure.png). Used under [Microsoft's terms of use](https://www.microsoft.com/en-us/legal/terms-of-use).*</span>
 
 Our weekly reading materials will be drawn from the following list, though it is not exhaustive. We have carefully hand-picked these resources to offer not only a comprehensive introduction to optimal transport theories but also to emphasize aspects that are potentially useful in relation to TMLE.
 
