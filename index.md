@@ -9,6 +9,7 @@ We invite _all_ enthusiasts, researchers, and practitioners—regardless of affi
 To stay informed about our reading group sessions and the latest developments at the CTML, we invite you to subscribe to both our [reading group's mailing list](https://forms.gle/bg4UQBNcc1rHEr6p6) and the [CTML newsletter](https://berkeley.us21.list-manage.com/subscribe?u=2abb346cb31a2e829e779ecbb&id=c7203ec4f3). Joining these mailing lists ensures you receive timely updates on meeting schedules, discussion topics, and upcoming events.
 
 ![Optimal Transport](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/OTDD_Shovel-Figure.png)
+*Image source: Microsoft Research. [Original image link](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/OTDD_Shovel-Figure.png). Used under [Microsoft's terms of use](https://www.microsoft.com/en-us/legal/terms-of-use).*
 
 Our weekly reading materials will be drawn from the following list, though it is not exhaustive. We have carefully hand-picked these resources to offer not only a comprehensive introduction to optimal transport theories but also to emphasize aspects that are potentially useful in relation to TMLE.
 
