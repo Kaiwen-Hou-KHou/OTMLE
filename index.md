@@ -352,7 +352,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 
 
 ## [Geodesic Convexity (2)]
-> **Date**: May 2nd, 2025
+> **Date**: **April 30th, 2025**
 >
 > **Presenter**: 
 >
