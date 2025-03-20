@@ -24,11 +24,13 @@ Our weekly reading materials will be drawn from the following list, though it is
 # Supplementary References
 - Agueh, M., & Carlier, G. (2017). Vers un théorème de la limite centrale dans l'espace de Wasserstein?. _Comptes Rendus. Mathématique_, 355(7), 812-818.
 - Benamou, J. D., & Brenier, Y. (2000). A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem. _Numerische Mathematik, 84_(3), 375-393.
+- Blanchet, J., Li, J., Lin, S., & Zhang, X. (2024). Distributionally robust optimization and robust statistics. _arXiv preprint arXiv:2401.14655_.
 - Chernozhukov, V., Galichon, A., Hallin, M., & Henry, M. (2017). Monge–Kantorovich depth, quantiles, ranks and signs.
 - Engquist, B., Froese, B. D., & Yang, Y. (2016). Optimal transport for seismic full waveform inversion. _arXiv preprint arXiv:1602.01540._
 - Figalli, A., & Glaudo, F. (2021). _An invitation to optimal transport, Wasserstein distances, and gradient flows._
 - Gibbs, A. L., & Su, F. E. (2002). On choosing and bounding probability metrics. _International statistical review, 70_(3), 419-435.
 - Jordan, R., Kinderlehrer, D., & Otto, F. (1998). The variational formulation of the Fokker--Planck equation. _SIAM journal on mathematical analysis, 29_(1), 1-17.
+- Kuhn, D., Esfahani, P. M., Nguyen, V. A., & Shafieezadeh-Abadeh, S. (2019). Wasserstein distributionally robust optimization: Theory and applications in machine learning. In _Operations research & management science in the age of analytics_ (pp. 130-166). Informs.
 - Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.
 - Panaretos, V. M., & Zemel, Y. (2020). _An invitation to statistics in Wasserstein space_ (p. 147). Springer Nature.
 - Santambrogio, F. (2015). Optimal transport for applied mathematicians. _Birkäuser, NY_, 55(58-63), 94.
@@ -212,6 +214,8 @@ A key focus is understanding TMLE as a dynamic path in probability space, where 
 *   Variational integral lemma: strong subdifferential is the gradient of first variation
 *   Gradient flow example: evolutionary parabolic PDEs of diffusion type
 
+Join us on [Zoom](https://berkeley.zoom.us/j/91970465738) if you can’t attend in person in 2024, and don't forget to subscribe to [this channel](https://kaltura.berkeley.edu/channel/CTML+Channel/358899692/subscribe) for access to the recordings.
+
 
 # Spring 2025: Geometry of Probability Space Optimization
 In Spring 2025, participants further investigate the geometry of probability spaces and the implications for TMLE’s structure and behavior. Topics include deeper explorations of how optimal transport’s spatial and dynamic properties provide insights into likelihood-based optimization and its role in semiparametric models. Rather than diving into specific optimization techniques like natural gradient descent or Newton’s method, this semester focuses on laying the theoretical groundwork for understanding such methods in probability spaces. Participants refine their understanding of how probability space-based optimization differs fundamentally from traditional parameter space approaches. This exploration highlights the theoretical richness of TMLE’s operations in probability space and prepares participants to extend these ideas to advanced methods and practical implementations in their future work.
@@ -242,7 +246,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 ## [Tangent Space (1)]
 > **Date**: February 7th, 2025
 >
-> **Presenter**: 
+> **Presenter**: Kaiwen Hou
 >
 > **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 8.0, Equations 0.20-0.26, Definition 8.4.1, Lemma 8.4.2, Propositions 8.4.3, 8.4.5, 8.4.6
 *   Tangent bundle of 2-Wasserstein space
@@ -256,117 +260,59 @@ In Spring 2025, participants further investigate the geometry of probability spa
 ## [Tangent Space (2)]
 > **Date**: February 14th, 2025
 >
-> **Presenter**: 
+> **Presenter**: Mingxun Wang
 >
-> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Remark 8.4.4, Section 8.5
+> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Remark 8.4.4, Theorem 8.5.1
 *   Cotangent space and duality
 *   Tangent space constructed from optimal maps
 *   Optimal displacement maps are tangent
+*   Reproducing kernel Hilbert space
 
 
-## [Geodesic Convexity (1)]
-> **Date**: February 21st, 2025
->
-> **Presenter**: 
->
-> **Computational Reading**: [Peyré & Cuturi (2019)](https://arxiv.org/pdf/1803.00567) Remarks 9.10, 9.13
->
-> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 9.0-9.2
-*   Geodesically convex functionals
-*   Squared 2-Wasserstein distance function is not convex along geodesics
-*   Convexity along generalized geodesics
-
-
-## [Otto Calculus]
+## [Distributionally Robust Optimization (1)]
 > **Date**: February 28th, 2025
->
-> **Presenter**: [Yi Li](https://ctml.berkeley.edu/people/yi-li)
->
-> **Theoretical Reading**: Villani (2009) Formulas 15.2, 15.7
-*   Gradient formula in Wasserstein space
-*   Hessian formula in Wasserstein space
-
-
-## [Subdifferential Calculus (1)]
-> **Date**: March 7th, 2025
->
-> **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
->
-> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Sections 10.1-10.3
-
-
-## [Subdifferential Calculus (2)]
-> **Date**: March 14th, 2025
->
-> **Presenter**: [Wenxin Zhang](https://ctml.berkeley.edu/people/wenxin-zhang)
->
-> **Theoretical Reading**: Ambrosio, Gigli & Savaré (2008) Section 10.4
-
-
-## [Monge–Ampère Equation]
-> **Date**: March 21th, 2025
 >
 > **Presenter**: Kaiwen Hou
 >
-> **Reading**: 
+> **Theoretical Reading**: [Kuhn et al. (2019)](https://arxiv.org/pdf/1908.08729) Section 1
+*   Nominal distributions: empirical and elliptical models
+*   Optimizer's curse
+*   Wasserstein distance and dual Kantorovich problem
+*   Kantorovich-Rubinstein theorem for W1 distance
+*   Worst-case optimal risk based on ambiguity sets
 
 
-## [Linearization of the Optimal Transport Problem]
-> **Date**: 
+## [Distributionally Robust Optimization (2)]
+> **Date**: March 14th, 2025
 >
-> **Presenter**: 
+> **Presenter**: Kaiwen Hou
 >
-> **Reading**: 
+> **Theoretical Reading**: [Kuhn et al. (2019)](https://arxiv.org/pdf/1908.08729) Theorems 5-7
+>
+> **Optional Reading**: Ambrosio, Gigli & Savaré (2008) Definition 3.1.1
+*   Lipschitz regularization
+*   Robust lower bound based on empirical perturbations
+*   Strong duality of worst-case risk: Moreau envelope
+*   inf-convolution: (\bar R, +, min)-algebra, basic properties, and Legendre–Fenchel transform
+*   Moreau-Yosida regularization is the inf-convolution between objective and norm
+*   Moreau-Yosida regularization defines gradient flows
 
 
-## [Second Variation]
+## [Distributionally Robust Optimization (3)]
+> **Date**: March 21st, 2025
+>
+> **Presenter**: Zhongming Xie
+>
+> **Theoretical Reading**: [Blanchet et al. (2024)](https://arxiv.org/pdf/2401.14655) Section 2
+*   f-divergence
+*   Variance regularization
+*   Optimal transport discrepancy and square-root LASSO
+
+
+## [Distributionally Robust Optimization (4)]
 > **Date**: April 4th, 2025
 >
-> **Presenter**: 
+> **Presenter**: Zhongming Xie
 >
-> **Reading**: 
+> **Theoretical Reading**: 
 
-
-## [Hessians and Convexity]
-> **Date**: April 11th, 2025
->
-> **Presenter**: 
->
-> **Reading**: 
-
-
-## [Examples of Functionals with Known Hessians]
-> **Date**: April 18th, 2025
->
-> **Presenter**: 
->
-> **Reading**: 
-
-
-## [Regularity Theory from Hessians]
-> **Date**: April 25th, 2025
->
-> **Presenter**: 
->
-> **Reading**: 
-
-
-## [Geodesic Convexity (2)]
-> **Date**: **April 30th, 2025**
->
-> **Presenter**: 
->
-> **Reading**: 
-
-
-## [Spectral Analysis]
-> **Date**: 
->
-> **Presenter**: 
->
-> **Reading**: 
-
-
-
-
-Join us on [Zoom](https://berkeley.zoom.us/j/91970465738) if you can’t attend in person, and don't forget to subscribe to [this channel](https://kaltura.berkeley.edu/channel/CTML+Channel/358899692/subscribe) for access to the recordings.
