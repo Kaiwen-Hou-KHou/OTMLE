@@ -23,6 +23,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 
 # Supplementary References
 - Agueh, M., & Carlier, G. (2017). Vers un théorème de la limite centrale dans l'espace de Wasserstein?. _Comptes Rendus. Mathématique_, 355(7), 812-818.
+- Amari, S. I., & Nagaoka, H. (2000). _Methods of information geometry_ (Vol. 191). American Mathematical Soc..
 - Benamou, J. D., & Brenier, Y. (2000). A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem. _Numerische Mathematik, 84_(3), 375-393.
 - Blanchet, J., Kang, Y., & Murthy, K. (2019). Robust Wasserstein profile inference and applications to machine learning. _Journal of Applied Probability, 56_(3), 830-857.
 - Blanchet, J., Li, J., Lin, S., & Zhang, X. (2024). Distributionally robust optimization and robust statistics. _arXiv preprint arXiv:2401.14655_.
@@ -325,12 +326,12 @@ In Spring 2025, participants further investigate the geometry of probability spa
 *   Stability conditions
 
 
-## [TBD]
+## [Fisher Information]
 > **Date**: April 11th, 2025
 >
 > **Presenter**: Kaiwen Hou
 >
-> **Theoretical Reading**: 
+> **Theoretical Reading**: Amari & Nagaoka (2000) Sections 2.2-2.3
 *   TBD
 
 
@@ -341,6 +342,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 >
 > **Theoretical Reading**: 
 *   TBD
+$ \alpha $
 
 
 ## [TBD]
