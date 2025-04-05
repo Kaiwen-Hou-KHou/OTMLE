@@ -33,6 +33,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 - Figalli, A., & Glaudo, F. (2021). _An invitation to optimal transport, Wasserstein distances, and gradient flows._
 - Gibbs, A. L., & Su, F. E. (2002). On choosing and bounding probability metrics. _International statistical review, 70_(3), 419-435.
 - Jordan, R., Kinderlehrer, D., & Otto, F. (1998). The variational formulation of the Fokker--Planck equation. _SIAM journal on mathematical analysis, 29_(1), 1-17.
+- Kass, R. E., & Vos, P. W. (2011). _Geometrical foundations of asymptotic inference._ John Wiley & Sons.
 - Kuhn, D., Esfahani, P. M., Nguyen, V. A., & Shafieezadeh-Abadeh, S. (2019). Wasserstein distributionally robust optimization: Theory and applications in machine learning. In _Operations research & management science in the age of analytics_ (pp. 130-166). Informs.
 - Lam, H. (2016). Robust sensitivity analysis for stochastic systems. _Mathematics of Operations Research, 41_(4), 1248-1275.
 - Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.
@@ -332,17 +333,21 @@ In Spring 2025, participants further investigate the geometry of probability spa
 > **Presenter**: Kaiwen Hou
 >
 > **Theoretical Reading**: Amari & Nagaoka (2000) Sections 2.2-2.3
-*   TBD
+*   Fisher metric
+*   Information loss and sufficient statistics
+*   Cramér-Rao lower bound and efficient statistics
+*   0-connection is the Riemannian connection w.r.t. Fisher metric
+*   1-connection and exponential family
+*   (-1)-connection and mixture family
 
 
-## [TBD]
+## [Statistical Curvature]
 > **Date**: April 18th, 2025
 >
-> **Presenter**: 
+> **Presenter**: [Toru Shirakawa](https://shirakawatoru.github.io/)
 >
-> **Theoretical Reading**: 
+> **Theoretical Reading**: Kass & Vos (2011) Sections 3.2-3.5
 *   TBD
-$ \alpha $
 
 
 ## [TBD]
