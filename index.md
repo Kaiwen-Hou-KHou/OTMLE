@@ -24,13 +24,16 @@ Our weekly reading materials will be drawn from the following list, though it is
 # Supplementary References
 - Agueh, M., & Carlier, G. (2017). Vers un théorème de la limite centrale dans l'espace de Wasserstein?. _Comptes Rendus. Mathématique_, 355(7), 812-818.
 - Benamou, J. D., & Brenier, Y. (2000). A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem. _Numerische Mathematik, 84_(3), 375-393.
+- Blanchet, J., Kang, Y., & Murthy, K. (2019). Robust Wasserstein profile inference and applications to machine learning. _Journal of Applied Probability, 56_(3), 830-857.
 - Blanchet, J., Li, J., Lin, S., & Zhang, X. (2024). Distributionally robust optimization and robust statistics. _arXiv preprint arXiv:2401.14655_.
 - Chernozhukov, V., Galichon, A., Hallin, M., & Henry, M. (2017). Monge–Kantorovich depth, quantiles, ranks and signs.
+- Duchi, J., & Namkoong, H. (2019). Variance-based regularization with convex objectives. _Journal of Machine Learning Research, 20_(68), 1-55.
 - Engquist, B., Froese, B. D., & Yang, Y. (2016). Optimal transport for seismic full waveform inversion. _arXiv preprint arXiv:1602.01540._
 - Figalli, A., & Glaudo, F. (2021). _An invitation to optimal transport, Wasserstein distances, and gradient flows._
 - Gibbs, A. L., & Su, F. E. (2002). On choosing and bounding probability metrics. _International statistical review, 70_(3), 419-435.
 - Jordan, R., Kinderlehrer, D., & Otto, F. (1998). The variational formulation of the Fokker--Planck equation. _SIAM journal on mathematical analysis, 29_(1), 1-17.
 - Kuhn, D., Esfahani, P. M., Nguyen, V. A., & Shafieezadeh-Abadeh, S. (2019). Wasserstein distributionally robust optimization: Theory and applications in machine learning. In _Operations research & management science in the age of analytics_ (pp. 130-166). Informs.
+- Lam, H. (2016). Robust sensitivity analysis for stochastic systems. _Mathematics of Operations Research, 41_(4), 1248-1275.
 - Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.
 - Panaretos, V. M., & Zemel, Y. (2020). _An invitation to statistics in Wasserstein space_ (p. 147). Springer Nature.
 - Santambrogio, F. (2015). Optimal transport for applied mathematicians. _Birkäuser, NY_, 55(58-63), 94.
@@ -304,6 +307,8 @@ In Spring 2025, participants further investigate the geometry of probability spa
 > **Presenter**: Zhongming Xie
 >
 > **Theoretical Reading**: [Blanchet et al. (2024)](https://arxiv.org/pdf/2401.14655) Section 2
+>
+> **Optional Reading**: [Duchi & Namkoong (2019)](https://arxiv.org/pdf/1610.02581) Sections 1-2.1, [Lam (2016)](https://arxiv.org/pdf/1303.0326) Theorem 3.1, [Blanchet, Kang & Murthy (2019)](https://arxiv.org/pdf/1610.05627) Section 2.4.1
 *   f-divergence
 *   Variance regularization
 *   Optimal transport discrepancy and square-root LASSO
@@ -314,5 +319,43 @@ In Spring 2025, participants further investigate the geometry of probability spa
 >
 > **Presenter**: Zhongming Xie
 >
-> **Theoretical Reading**: 
+> **Theoretical Reading**: [Blanchet et al. (2024)](https://arxiv.org/pdf/2401.14655) Section 3
+*   Connections between distributionally robust optimization and robust statistics
+*   Contamination models: epsilon-contamination, full-neighborhood contamination, and adaptive contamination
+*   Stability conditions
 
+
+## []
+> **Date**: April 11th, 2025
+>
+> **Presenter**: Kaiwen Hou
+>
+> **Theoretical Reading**: 
+*   ?
+
+
+## []
+> **Date**: April 18th, 2025
+>
+> **Presenter**: 
+>
+> **Theoretical Reading**: 
+*   ?
+
+
+## []
+> **Date**: April 25th, 2025
+>
+> **Presenter**: 
+>
+> **Theoretical Reading**: 
+*   ?
+
+
+## []
+> **Date**: May 2nd, 2025
+>
+> **Presenter**: 
+>
+> **Theoretical Reading**: 
+*   ?
