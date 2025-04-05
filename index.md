@@ -38,6 +38,7 @@ Our weekly reading materials will be drawn from the following list, though it is
 - Lam, H. (2016). Robust sensitivity analysis for stochastic systems. _Mathematics of Operations Research, 41_(4), 1248-1275.
 - Panaretos, V. M., & Zemel, Y. (2019). Statistical aspects of Wasserstein distances. _Annual review of statistics and its application, 6_(1), 405-431.
 - Panaretos, V. M., & Zemel, Y. (2020). _An invitation to statistics in Wasserstein space_ (p. 147). Springer Nature.
+- Rao, C. R. (1992). Information and the accuracy attainable in the estimation of statistical parameters. In _Breakthroughs in Statistics: Foundations and basic theory_ (pp. 235-247). New York, NY: Springer New York.
 - Santambrogio, F. (2015). Optimal transport for applied mathematicians. _Birkäuser, NY_, 55(58-63), 94.
 - Tsybakov, A. B. (2009). Lower bounds on the minimax risk. _Introduction to Nonparametric Estimation_, 77-135.
 - Van der Laan, M. J., & Rose, S. (2011). _Targeted learning: causal inference for observational and experimental data_ (Vol. 4). New York: Springer.
@@ -332,7 +333,9 @@ In Spring 2025, participants further investigate the geometry of probability spa
 >
 > **Presenter**: Kaiwen Hou
 >
-> **Theoretical Reading**: Amari & Nagaoka (2000) Sections 2.2-2.3
+> **Theoretical Reading**: [Rao (1992)](https://www.ias.ac.in/article/fulltext/reso/020/01/0076-0090)
+>
+> **Optional Reading**: Amari & Nagaoka (2000) Sections 2.2-2.3
 *   Fisher metric
 *   Information loss and sufficient statistics
 *   Cramér-Rao lower bound and efficient statistics
