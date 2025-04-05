@@ -325,37 +325,37 @@ In Spring 2025, participants further investigate the geometry of probability spa
 *   Stability conditions
 
 
-## []
+## [TBD]
 > **Date**: April 11th, 2025
 >
 > **Presenter**: Kaiwen Hou
 >
 > **Theoretical Reading**: 
-*   ?
+*   TBD
 
 
-## []
+## [TBD]
 > **Date**: April 18th, 2025
 >
 > **Presenter**: 
 >
 > **Theoretical Reading**: 
-*   ?
+*   TBD
 
 
-## []
+## [TBD]
 > **Date**: April 25th, 2025
 >
 > **Presenter**: 
 >
 > **Theoretical Reading**: 
-*   ?
+*   TBD
 
 
-## []
+## [TBD]
 > **Date**: May 2nd, 2025
 >
 > **Presenter**: 
 >
 > **Theoretical Reading**: 
-*   ?
+*   TBD
