@@ -331,7 +331,7 @@ In Spring 2025, participants further investigate the geometry of probability spa
 ## [Fisher Information]
 > **Date**: April 11th, 2025
 >
-> **Presenter**: Kaiwen Hou
+> **Presenter**: Mingxun Wang
 >
 > **Theoretical Reading**: [Rao (1992)](https://www.ias.ac.in/article/fulltext/reso/020/01/0076-0090)
 >
@@ -342,15 +342,19 @@ In Spring 2025, participants further investigate the geometry of probability spa
 *   0-connection is the Riemannian connection w.r.t. Fisher metric
 *   1-connection and exponential family
 *   (-1)-connection and mixture family
+*   Detour: Measure-theoretic foundations for Highly Adaptive Lasso
 
 
-## [Statistical Curvature]
+## [Statistical Curvature and Second‐Order Asymptotics]
 > **Date**: April 18th, 2025
 >
-> **Presenter**: [Toru Shirakawa](https://shirakawatoru.github.io/)
+> **Presenter**: Kaiwen Hou
 >
 > **Theoretical Reading**: Kass & Vos (2011) Sections 3.2-3.5
-*   TBD
+*   Statistical curvature: definition and interpretation
+*   Information loss and local sufficiency
+*   Second-order efficiency
+*   Edgeworth expansions for curved models
 
 
 ## [TBD]
