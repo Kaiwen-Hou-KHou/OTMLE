@@ -328,46 +328,44 @@ In Spring 2025, participants further investigate the geometry of probability spa
 *   Stability conditions
 
 
-## [Fisher Information]
+## [Fisher Information (1)]
 > **Date**: April 11th, 2025
 >
 > **Presenter**: Mingxun Wang
 >
 > **Theoretical Reading**: [Rao (1992)](https://www.ias.ac.in/article/fulltext/reso/020/01/0076-0090)
 >
-> **Optional Reading**: Amari & Nagaoka (2000) Sections 2.2-2.3
+> **Optional Reading**: Amari & Nagaoka (2000) Section 2.2
 *   Fisher metric
 *   Information loss and sufficient statistics
 *   Cramér-Rao lower bound and efficient statistics
-*   0-connection is the Riemannian connection w.r.t. Fisher metric
-*   1-connection and exponential family
-*   (-1)-connection and mixture family
 *   Detour: Measure-theoretic foundations for Highly Adaptive Lasso
 
 
-## [Statistical Curvature and Second‐Order Asymptotics]
+## [Fisher Information (2)]
 > **Date**: April 18th, 2025
 >
 > **Presenter**: Kaiwen Hou
 >
-> **Theoretical Reading**: Kass & Vos (2011) Sections 3.2-3.5
+> **Theoretical Reading**: Kass & Vos (2011) Sections 3.2-3.4
 *   Statistical curvature: definition and interpretation
 *   Information loss and local sufficiency
 *   Second-order efficiency
-*   Edgeworth expansions for curved models
 
 
-## [TBD]
+## [Fisher Information (3)]
 > **Date**: April 25th, 2025
 >
-> **Presenter**: Zhongming Xie
+> **Presenter**: Kaiwen Hou
 >
-> **Theoretical Reading**: 
-*   TBD
+> **Theoretical Reading**: Amari & Nagaoka (2000) Section 2.3
+*   0-connection is the Riemannian connection w.r.t. Fisher metric
+*   1-connection and exponential family
+*   (-1)-connection and mixture family
 
 
-## [TBD]
-> **Date**: May 2nd, 2025
+## [Covariate-Aware Optimal Transport]
+> **Date**: April 30th, 2025
 >
 > **Presenter**: Zhongming Xie
 >
