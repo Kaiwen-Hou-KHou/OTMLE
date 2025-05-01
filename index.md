@@ -364,10 +364,4 @@ In Spring 2025, participants further investigate the geometry of probability spa
 *   (-1)-connection and mixture family
 
 
-## [Covariate-Aware Optimal Transport]
-> **Date**: April 30th, 2025
->
-> **Presenter**: Zhongming Xie
->
-> **Theoretical Reading**: 
-*   TBD
+We'll pick things up again this summer.
